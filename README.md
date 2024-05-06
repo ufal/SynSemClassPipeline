@@ -36,6 +36,10 @@ The following arguments are used by all tasks:
 - udpipe-model-target (required): UDPipe model for the target language, a two letter language code can be used to select a model automatically.
 - udpipe-model-source: UDPipe model for the source language.
 - ssc-pred-model (required): path to the model used for ssc predictions (TODO: Where to get the model?)
+- lemmatization: path to the script to perform lemmatization. The script should contain a function called `lemmatize` that takes a word from the `ufal.udpipe` package and returns the lemma. If not provided, the lemma returned by UDPipe 2 is used.
+- verb-filter: path to the script to perform verb filtering. The script should contain a function called `verb_filter` that takes a word from the `ufal.udpipe` package and True iff the word should be considered for the pipeline. If not provided, all words marked as `VERB` by UDPipe 2 will be used.
+
+An example lemmatization and verb filtering script can be found in [`scripts/ko_filter_lemma.py`](scripts/ko_filter_lemma.py).
 
 The following arguments are used for the corpus and ssc tasks:
 - output: path to where the output corpus/ssc file will be produced.
