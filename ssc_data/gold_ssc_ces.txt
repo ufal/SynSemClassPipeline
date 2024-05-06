@@ -1,0 +1,3345 @@
+absolvovat	vec00601
+absorbovat	vec00476
+adaptovat	vec00095
+adresovat	vec00602
+akceptovat	vec00120
+aktivovat	vec00038
+aktualizovat	vec00436
+akumulovat	vec00443
+analyzovat	vec00090
+angažovat se	vec00067
+anulovat	vec00198
+apelovat	vec00057
+aplikovat	vec00079
+argumentovat	vec00201
+asistovat	vec00067
+atakovat	vec00441
+autorizovat	vec00078
+avizovat	vec00060
+bagatelizovat	vec00801
+balit	vec00603
+bavit se	vec00031
+blokovat	vec00174
+blížit se	vec00097
+blížit se	vec01001
+bojovat	vec00121
+bojovat	vec00205
+bojovat	vec01002
+bombardovat	vec00604
+brblat	vec00132
+broukat	vec00794
+brzdit	vec00486
+bránit	vec00174
+bránit	vec00244
+bránit	vec00367
+bránit se	vec00024
+brát	vec00149
+brát	vec00402
+brát	vec00613
+brát	vec01003
+brát	vec01004
+brát si	vec01007
+budit	vec00196
+budovat	vec00084
+budovat	vec00179
+bát se	vec00243
+bít	vec00992
+být	vec00017
+bývat	vec00199
+běžet	vec00221
+běžet	vec00261
+cenit	vec00322
+cenit si	vec00322
+centralizovat	vec00804
+cenzurovat	vec01008
+cestovat	vec00403
+charakterizovat	vec00417
+chlubit se	vec00418
+chodit	vec00227
+chodit	vec01025
+chopit se	vec00613
+chovat	vec00468
+chovat se	vec00225
+chrlit	vec00614
+chránit	vec00024
+chutnat	vec01026
+chválit	vec00675
+chvástat se	vec00418
+chybět	vec00419
+chystat	vec00502
+chystat se	vec00290
+chytat	vec00126
+chytit	vec00825
+chytit se	vec00616
+chápat	vec00107
+chápat	vec00402
+chápat se	vec00613
+citovat	vec01009
+couvnout	vec00942
+cvičit	vec00606
+cílit	vec00859
+cítit	vec00203
+cítit	vec00470
+cítit se	vec00204
+darovat	vec00074
+datovat	vec00806
+datovat se	vec00005
+dařit se	vec00153
+dařit se	vec00257
+dbát	vec00303
+debatovat	vec00031
+definovat	vec00127
+definovat	vec00417
+degradovat	vec00807
+deklarovat	vec00060
+demolovat	vec00389
+demonstrovat	vec00330
+destabilizovat	vec01011
+devalvovat	vec01012
+diktovat	vec01013
+dirigovat	vec00302
+diskreditovat	vec01192
+diskriminovat	vec00808
+diskutovat	vec00031
+disponovat	vec00277
+distancovat se	vec00607
+distribuovat	vec00209
+dlužit	vec00406
+dmout se	vec00949
+docházet	vec00097
+docházet	vec00217
+docházet	vec00218
+docházet	vec00810
+docílit	vec00189
+dodat	vec00011
+dodat	vec00060
+dodat	vec00499
+dodržet	vec00316
+dodržovat	vec00316
+dodávat	vec00011
+dodávat	vec00060
+dodávat	vec00499
+dohadovat	vec00162
+dohadovat se	vec00019
+dohlédnout	vec00211
+dohlížet	vec00211
+dohnat	vec01015
+dohnat	vec01017
+dohodnout	vec00078
+dohodnout se	vec00162
+dohánět	vec01015
+dohánět	vec01017
+dojednat	vec00162
+dojednávat	vec00162
+dojít	vec00097
+dojít	vec00217
+dojít	vec00810
+dokazovat	vec00087
+dokladovat	vec00087
+dokládat	vec00087
+dokončit	vec00213
+dokončovat	vec00213
+dokázat	vec00087
+dokázat	vec00212
+doladit	vec00008
+dolaďovat	vec00008
+dominovat	vec00214
+domnívat se	vec00032
+domnívat se	vec00345
+domáhat se	vec00272
+donutit	vec00098
+dopadnout	vec00309
+dopadnout	vec00467
+doplatit	vec00740
+doplnit	vec00407
+doplnit	vec00499
+doplácet	vec00740
+doplňovat	vec00407
+doporučit	vec00039
+doporučit	vec00215
+doporučovat	vec00215
+dopouštět se	vec00009
+dopravit	vec00209
+dopravovat	vec00209
+dopustit se	vec00009
+dorazit	vec00218
+doručit	vec00011
+doručovat	vec00011
+dosadit	vec00735
+dosahovat	vec00206
+dosazovat	vec00735
+doslechnout se	vec00013
+dospívat	vec00167
+dospívat	vec00217
+dospívat	vec00218
+dospět	vec00167
+dospět	vec00217
+dospět	vec00218
+dostat	vec00189
+dostat	vec00586
+dostat	vec00636
+dostat	vec00735
+dostat	vec00812
+dostat se	vec00189
+dostat se	vec00218
+dostat se	vec00811
+dostat se	vec01115
+dostavit se	vec00042
+dostavit se	vec00097
+dostavovat se	vec00042
+dostavovat se	vec00097
+dostihnout	vec01017
+dostát	vec00316
+dostávat	vec00189
+dostávat	vec00735
+dostávat	vec00812
+dostávat se	vec00189
+dostávat se	vec00586
+dostávat se	vec01115
+dosáhnout	vec00189
+dosáhnout	vec00206
+dotazovat se	vec00384
+dotknout se	vec00254
+dotknout se	vec00328
+dotknout se	vec00372
+dotlačit	vec00098
+dotovat	vec00410
+dotázat se	vec00384
+dotýkat se	vec00328
+doufat	vec00219
+doutnat	vec00748
+dovolit	vec00012
+dovolit si	vec00411
+dovolovat	vec00012
+dovolovat si	vec00411
+dovršit	vec00213
+dovážet	vec00011
+dovést	vec00812
+dovézt	vec00011
+dovídat se	vec00013
+dovědět se	vec00013
+doznat se	vec00503
+dozrát	vec01018
+dozrávat	vec01018
+dozvídat se	vec00013
+dozvědět se	vec00013
+dozírat	vec00211
+dořešit	vec00301
+dožadovat se	vec00272
+dražit	vec01151
+drát se	vec00121
+dráždit	vec00608
+držet	vec00014
+držet	vec00176
+držet	vec00348
+držet	vec00412
+držet	vec00813
+držet se	vec00199
+držet se	vec00303
+držet se	vec00394
+dumat	vec01081
+dusit	vec00815
+dát	vec00033
+dát	vec00060
+dát	vec00074
+dát	vec00127
+dát	vec00147
+dát	vec00208
+dát	vec00334
+dát	vec00443
+dát	vec00571
+dát	vec00735
+dát	vec00812
+dát se	vec00318
+dát se	vec00698
+dávat	vec00033
+dávat	vec00060
+dávat	vec00127
+dávat	vec00147
+dávat	vec00208
+dávat	vec00443
+dávat	vec00543
+dávat	vec00695
+dávat	vec00735
+dávat	vec00812
+dít se	vec00006
+dít se	vec00097
+dívat se	vec00021
+dívat se	vec00310
+dívat se	vec00402
+dívat se	vec00869
+dýchat	vec01019
+dědit	vec00584
+děkovat	vec00065
+dělit se	vec00304
+děsit	vec00761
+dřít	vec00273
+dřít se	vec00273
+evakuovat	vec01020
+evokovat	vec00016
+existovat	vec00017
+expandovat	vec00510
+expedovat	vec00209
+experimentovat	vec01021
+explodovat	vec00018
+extrahovat	vec00816
+fascinovat	vec00609
+figurovat	vec01022
+financovat	vec00410
+finišovat	vec00113
+flirtovat	vec00817
+formovat	vec00944
+formulovat	vec00784
+frustrovat	vec01183
+fungovat	vec00221
+fungovat	vec00273
+fušovat	vec00818
+garantovat	vec00511
+generovat	vec00355
+gratulovat	vec01023
+handrkovat se	vec00019
+hlasovat	vec00020
+hlasovat	vec00069
+hlasovat	vec00461
+hledat	vec00021
+hlásat	vec00060
+hlásit	vec00060
+hnout se	vec00022
+hnát	vec00812
+hnát se	vec00610
+hodit	vec00819
+hodit	vec00942
+hodit se	vec00821
+hodit se	vec00960
+hodnotit	vec00159
+holedbat se	vec00418
+honit	vec00687
+hospitalizovat	vec01024
+hospodařit	vec00277
+hostit	vec00822
+houpat se	vec00626
+hovořit	vec00031
+hovořit	vec00435
+hradit	vec00125
+hrnout se	vec00610
+hrnout se	vec00747
+hromadit	vec00443
+hroutit se	vec00599
+hrozit	vec00416
+hrozit	vec00477
+hrát	vec00222
+hrát	vec00415
+hrát	vec00611
+hrát	vec00823
+hrát si	vec00824
+hrávat	vec00415
+hádat	vec00093
+hájit	vec00244
+hájit se	vec00024
+házet	vec00819
+hýbat se	vec00626
+identifikovat	vec00909
+ignorovat	vec00460
+ilustrovat	vec00330
+implantovat	vec01027
+indikovat	vec00141
+infikovat	vec00635
+informovat	vec00060
+iniciovat	vec00038
+inkasovat	vec00189
+inscenovat	vec00611
+inspirovat	vec00080
+instalovat	vec00440
+instruovat	vec00827
+integrovat	vec00723
+interpretovat	vec00402
+investovat	vec00147
+inzerovat	vec01028
+izolovat	vec00024
+izolovat	vec00047
+jednat	vec00162
+jednat	vec00225
+jednat se	vec00226
+jet	vec00026
+jet	vec00403
+jevit se	vec00164
+jezdit	vec00026
+jezdit	vec00403
+jezdívat	vec00403
+ječet	vec00426
+jistit	vec00260
+jmenovat	vec00228
+jmenovat	vec01029
+jmenovat se	vec00043
+jásat	vec00135
+jíst	vec00828
+jít	vec00027
+jít	vec00153
+jít	vec00218
+jít	vec00226
+jít	vec00227
+jít	vec00403
+jít	vec00516
+jít	vec00618
+jít	vec00619
+kandidovat	vec00423
+kapitalizovat	vec01030
+kapitulovat	vec00739
+karikovat	vec01031
+katapultovat	vec01032
+kazit	vec00389
+klamat	vec00589
+klasifikovat	vec00296
+klasifikovat	vec00916
+klepat	vec01035
+klesat	vec00028
+klesnout	vec00028
+klopýtat	vec00622
+klábosit	vec00031
+klást	vec00382
+klást	vec00384
+klást	vec00812
+klást	vec01034
+koketovat	vec00817
+kolaborovat	vec00319
+kolovat	vec00017
+kolísat	vec00626
+kombinovat	vec00623
+komentovat	vec00161
+kompenzovat	vec00356
+komunikovat	vec00031
+konat se	vec00097
+koncipovat	vec00040
+konfiskovat	vec00569
+konfrontovat	vec01036
+konkurovat	vec00121
+konstatovat	vec00060
+konstruovat	vec00084
+kontaktovat	vec00057
+kontrastovat	vec00829
+kontrolovat	vec00302
+kontrovat	vec00844
+konvertovat	vec00095
+končit	vec00113
+končit	vec00213
+končit	vec00741
+koordinovat	vec00425
+kopírovat	vec01109
+kormidlovat	vec01037
+kotovat	vec00322
+koukat	vec00869
+koupit	vec00035
+kousnout	vec01038
+kouřit	vec00830
+kritizovat	vec00230
+krmit	vec00624
+krotit	vec00783
+kroutit	vec00991
+kroužit	vec00831
+krvácet	vec00625
+krást	vec00704
+kráčet	vec00227
+kráčet	vec01025
+krýt	vec00125
+krýt	vec00260
+krýt	vec00514
+kupovat	vec00035
+kvést	vec00510
+kymácet se	vec00626
+kárat	vec00620
+kázat	vec00621
+kótovat	vec00322
+křičet	vec00426
+lehnout si	vec00629
+letět	vec00427
+ležet	vec00317
+lhát	vec00832
+liberalizovat	vec00545
+likvidovat	vec00389
+litovat	vec00428
+lišit se	vec00829
+lobbovat	vec00272
+lobovat	vec00272
+lokalizovat	vec00735
+lpět	vec01040
+lyžovat	vec01041
+lákat	vec00286
+lámat	vec00029
+lámat si	vec00149
+létat	vec00427
+léčit	vec00628
+léčit	vec00664
+líbit se	vec00231
+lít	vec00147
+líčit	vec00417
+manipulovat	vec00254
+maskovat	vec00514
+maximalizovat	vec00834
+mačkat se	vec00833
+mařit	vec00174
+milovat	vec00432
+minimalizovat	vec00433
+mizet	vec00755
+mluvit	vec00031
+mluvit	vec00435
+množit se	vec00836
+mobilizovat	vec00485
+modernizovat	vec00436
+modifikovat	vec00095
+monitorovat	vec00115
+montovat	vec00084
+motivovat	vec00098
+motivovat	vec00837
+mračit se	vec01043
+mrknout	vec00838
+mrzet	vec00428
+myslet	vec00032
+myslet	vec01044
+myslet si	vec00032
+mávat	vec00631
+míchat	vec00623
+mínit	vec00032
+mínit	vec00256
+mínit	vec00771
+mírnit	vec00545
+mít	vec00191
+mít	vec00196
+mít	vec00256
+mít se	vec00153
+mívat	vec00432
+mířit	vec00434
+mířit	vec00516
+mířit	vec00835
+mýlit se	vec00839
+mýt	vec00840
+měnit	vec00030
+měnit	vec00095
+měnit	vec00429
+měnit se	vec00430
+měnit se	vec01132
+měřit	vec00431
+nabídnout	vec00033
+nabízet	vec00033
+nabýt	vec00586
+nabývat	vec00586
+nacházet	vec00233
+nacházet se	vec00308
+nacházet se	vec00439
+nacpat	vec00841
+nadcenit	vec00634
+nadejít	vec00097
+nadnášet	vec00568
+nadnést	vec00568
+nadsadit	vec00634
+nadsazovat	vec00634
+nadskočit	vec01113
+nadávat	vec00633
+nadělat	vec00196
+nafouknout	vec00298
+nahlašovat	vec00060
+nahlodat	vec00265
+nahlásit	vec00060
+nahlížet	vec00402
+nahradit	vec00429
+nahradit	vec00565
+nahrazovat	vec00429
+nahrazovat	vec00565
+nahrát	vec00640
+nahrávat	vec00640
+nainstalovat	vec00440
+najmout	vec00369
+najímat	vec00369
+najít	vec00233
+nakazit se	vec00636
+naklonit se	vec00637
+naklánět se	vec00637
+nakoupit	vec00035
+nakupovat	vec00035
+naleznout	vec00233
+nalákat	vec00286
+naléhat	vec00272
+nalévat	vec00147
+nalézat	vec00233
+nalézt	vec00233
+nalít	vec00147
+nalíčit	vec00638
+namalovat	vec00638
+namixovat	vec00623
+namítat	vec00844
+namítnout	vec00844
+napadat	vec00441
+napadnout	vec00441
+napichovat	vec00735
+naplnit	vec00540
+naplnit	vec00577
+naplánovat	vec00256
+naplňovat	vec00316
+naplňovat	vec00577
+napodobit	vec01109
+napodobovat	vec01109
+napomoci	vec00069
+napomoci	vec00475
+napomáhat	vec00069
+napomáhat	vec00475
+napravit	vec00356
+napravovat	vec00356
+naprogramovat	vec01046
+napsat	vec00037
+napsat	vec00060
+napáchat	vec00196
+narazit	vec00639
+narodit se	vec00442
+narůst	vec00109
+narůstat	vec00109
+nasbírat	vec00443
+nashromáždit	vec00443
+naskočit	vec00845
+naslouchat	vec00445
+nasměrovat	vec00859
+nasměrovávat	vec00859
+nastartovat	vec00038
+nastat	vec00097
+nastavit	vec00322
+nastavit	vec00440
+nastavovat	vec00127
+nastiňovat	vec00330
+nastolovat	vec00546
+nastoupit	vec00239
+nastupovat	vec00239
+nastupovat	vec00565
+nastávat	vec00097
+nastínit	vec00330
+natlačit se	vec00833
+natočit	vec00640
+natáčet	vec00640
+naučit	vec00531
+naučit se	vec00013
+navodit	vec00196
+navozovat	vec00196
+navracet se	vec00744
+navrhnout	vec00039
+navrhnout	vec00040
+navrhovat	vec00039
+navrhovat	vec00040
+navrátit	vec00745
+navrátit se	vec00744
+navyšovat	vec00298
+navýšit	vec00298
+navštívit	vec00042
+navštěvovat	vec00042
+naznačit	vec00994
+naznačovat	vec00994
+nazvat	vec00043
+nazývat	vec00043
+nazývat se	vec00043
+nařizovat	vec01013
+nařknout	vec00347
+nařídit	vec01013
+nechat	vec00012
+nechat	vec00072
+nechat	vec00074
+nechat	vec00198
+nechat	vec00575
+nechávat	vec00012
+nechávat	vec00072
+nechávat	vec00575
+nenávidět	vec00641
+ničit	vec00389
+nosit	vec00241
+nosit	vec00242
+nosívat	vec00242
+nutit	vec01013
+následovat	vec00303
+následovat	vec00444
+nést	vec00241
+obchodovat	vec00046
+obcházet	vec00045
+obdarovat	vec00695
+obdarovávat	vec00695
+obdivovat	vec01048
+obdržet	vec00189
+obehnat	vec00643
+obejít	vec00045
+obejít se	vec00642
+obestírat	vec00643
+obestřít	vec00643
+obeznámit	vec00846
+obhajovat	vec00244
+obhospodařit	vec00277
+obhospodařovat	vec00277
+obhájit	vec00244
+objasnit	vec00450
+objasňovat	vec00450
+objednat	vec00451
+objednávat	vec00451
+objevit	vec00233
+objevit se	vec00245
+objevit se	vec00978
+objevovat	vec00233
+objevovat se	vec00245
+obklopit	vec00643
+obklopovat	vec00643
+obléhat	vec01049
+oblékat	vec01050
+obměňovat	vec00429
+obnovit	vec00246
+obnovovat	vec00246
+obnášet	vec00194
+obnášet	vec00206
+obohacovat	vec01052
+obohatit	vec01052
+obracet	vec00095
+obracet	vec00859
+obracet se	vec00057
+obracet se	vec00645
+obrátit	vec00095
+obrátit	vec00859
+obrátit	vec01053
+obrátit se	vec00057
+obrátit se	vec00645
+obsadit	vec00577
+obsadit	vec00646
+obsadit	vec00916
+obsahovat	vec00366
+obsazovat	vec00646
+obsloužit	vec00515
+obsluhovat	vec00515
+obstarávat	vec00178
+obstavit	vec00569
+obsáhnout	vec00366
+obtěžovat se	vec01054
+obvinit	vec00347
+obviňovat	vec00347
+obávat se	vec00243
+obědvat	vec00828
+obětovat	vec00449
+obžalovat	vec00347
+ocenit	vec00322
+ocenit	vec00675
+oceňovat	vec00322
+ochabnout	vec00793
+ochabovat	vec00793
+ochraňovat	vec00024
+ochromit	vec00656
+ochránit	vec00024
+ochudit	vec01187
+ochutnat	vec00058
+ocitnout se	vec00439
+odchylovat se	vec00849
+odcházet	vec00048
+odchýlit se	vec00849
+odcizit	vec00704
+oddalovat	vec00486
+oddálit	vec00486
+oddělit	vec00047
+oddělit se	vec00905
+oddělovat	vec00047
+oddělovat se	vec00905
+odebrat	vec00648
+odebrat	vec00704
+odehnat	vec00848
+odehrát se	vec00097
+odehrávat se	vec00097
+odejmout	vec00704
+odejít	vec00048
+odejít	vec00811
+odepsat	vec00453
+odepřít	vec00050
+odeslat	vec00209
+odeznít	vec00113
+odečíst	vec00649
+odečítat	vec00649
+odfrknout si	vec01056
+odhadnout	vec00093
+odhadnout	vec00159
+odhadnout	vec00322
+odhadovat	vec00093
+odhadovat	vec00159
+odhadovat	vec00322
+odhalit	vec00909
+odhalovat	vec00909
+odhazovat	vec00819
+odhlasovat	vec00020
+odhodit	vec00555
+odjet	vec00048
+odklonit	vec00049
+odklonit	vec00283
+odkládat	vec00486
+odkládat	vec00850
+odklánět	vec00283
+odkoupit	vec00035
+odkupovat	vec00035
+odletět	vec00427
+odlišit	vec01102
+odlišit se	vec00650
+odlišovat	vec01102
+odlišovat se	vec00650
+odložit	vec00486
+odmítat	vec00050
+odmítnout	vec00050
+odnášet	vec00283
+odnést	vec00283
+odolat	vec00279
+odolávat	vec00279
+odpojit	vec00652
+odporovat	vec00852
+odpouštět	vec01058
+odpovídat	vec00102
+odpovídat	vec00250
+odpovědět	vec00102
+odpočítávat	vec00649
+odprodat	vec00083
+odprodávat	vec00083
+odpustit	vec01058
+odpykat si	vec01059
+odpykávat si	vec01059
+odpírat	vec00050
+odradit	vec00251
+odrazit	vec00141
+odrazit	vec00456
+odrazit se	vec00141
+odrazit se	vec00653
+odrazovat	vec00251
+odročit	vec00486
+odrážet	vec00141
+odrážet se	vec00141
+odrážet se	vec00653
+odsednout si	vec00705
+odseknout	vec01060
+odsoudit	vec00230
+odsouhlasit	vec00078
+odsouvat	vec00486
+odstartovat	vec00038
+odstartovat	vec00097
+odstavit	vec00923
+odstoupit	vec00113
+odstoupit	vec00942
+odstoupit	vec01140
+odstranit	vec00962
+odstraňovat	vec00923
+odstrašit	vec00251
+odstrašovat	vec00761
+odstupovat	vec01140
+odstěhovat se	vec00048
+odsunout	vec00321
+odsunout	vec00486
+odsuzovat	vec00230
+odumřít	vec00755
+odvažovat se	vec01061
+odvodit	vec00855
+odvolat	vec00198
+odvolat	vec00555
+odvolat se	vec00457
+odvolávat se	vec00457
+odvozovat	vec00855
+odvracet	vec00174
+odvrátit	vec00174
+odvysílat	vec00358
+odvádět	vec00854
+odvážet	vec00172
+odvážit se	vec01061
+odvést	vec00854
+odčerpat	vec00847
+odčerpávat	vec00847
+odčítat	vec00649
+odříznout	vec00047
+ohlašovat	vec00060
+ohlásit	vec00060
+ohodnocovat	vec00322
+ohodnotit	vec00322
+ohodnotit	vec00916
+ohradit se	vec00461
+ohraničit	vec00053
+ohraničovat	vec00053
+ohrazovat se	vec00461
+ohrnovat	vec01062
+ohromit	vec00094
+ohrozit	vec00252
+ohrožovat	vec00252
+ohánět se	vec00418
+oklestit	vec00588
+okrádat	vec00657
+okrást	vec00657
+okupovat	vec00646
+omezit	vec00118
+omezovat	vec00118
+omluvit	vec00658
+opadat	vec00467
+opadnout	vec00793
+opadávat	vec00113
+opakovat	vec00458
+operovat	vec00054
+operovat	vec00221
+oplodnit	vec00660
+oplývat	vec00857
+opomenout	vec00460
+opomíjet	vec00460
+oponovat	vec00461
+opouštět	vec00048
+opovrhovat	vec01063
+opozdit	vec00486
+opozdit se	vec00370
+opožďovat se	vec00370
+opravit	vec00095
+opravit	vec00462
+opravovat	vec00462
+opravňovat	vec00012
+oprostit	vec00595
+oprávnit	vec00012
+opustit	vec00048
+opustit	vec00942
+opylovat	vec00660
+opírat se	vec00520
+opětovat	vec00659
+opřít se	vec00520
+orazítkovat	vec00858
+organizovat	vec00502
+orientovat	vec00859
+orientovat se	vec00115
+oslabit	vec00028
+oslabit	vec00055
+oslabit	vec00118
+oslabit	vec00463
+oslabovat	vec00055
+oslabovat	vec00463
+oslavit	vec00663
+oslavovat	vec00663
+oslovit	vec00043
+oslovit	vec00057
+oslovit	vec00188
+oslovovat	vec00043
+ospravedlnit	vec00464
+ospravedlňovat	vec00464
+osvobodit	vec00595
+osvobozovat	vec00595
+oteplovat se	vec01064
+otestovat	vec00058
+otevírat	vec00059
+otevírat	vec00465
+otevírat	vec00861
+otevřít	vec00059
+otevřít	vec00465
+otevřít	vec00861
+otevřít se	vec00862
+otisknout	vec00060
+otiskovat	vec00060
+otočit	vec01197
+otravovat	vec01183
+otrávit	vec01183
+otupovat	vec00055
+otřepávat se	vec00390
+otřásat	vec00466
+otřásat se	vec00937
+otřást	vec00466
+otřást se	vec00937
+ovlivnit	vec00254
+ovlivňovat	vec00254
+ovládat	vec00302
+ovládnout	vec00302
+ovládnout	vec01065
+ověřit	vec00090
+ověřovat	vec00090
+oznamovat	vec00060
+označit	vec00127
+označit	vec00417
+označovat	vec00127
+označovat	vec00417
+oznámit	vec00060
+očekávat	vec00002
+očekávat	vec00003
+očesat	vec00712
+očistit	vec00552
+očistit	vec00595
+očišťovat	vec00595
+ošetřit	vec00301
+ošetřit	vec00664
+ošetřovat	vec00664
+ošálit	vec00860
+oženit se	vec00863
+oživit	vec00038
+oživit	vec00246
+oživovat	vec00246
+pachtit se	vec00273
+padat	vec00028
+padat	vec00467
+padnout	vec00599
+pamatovat	vec00364
+pamatovat si	vec00364
+panikařit	vec00864
+panovat	vec00017
+paralyzovat	vec00656
+patřit	vec00348
+patřit	vec00865
+pelášit	vec00048
+pitvořit se	vec00145
+plakat	vec00867
+platit	vec00125
+platit	vec00469
+platívat	vec00125
+plavat	vec01069
+plazit se	vec00665
+plnit	vec00316
+plnit	vec00577
+plout	vec00063
+plácnout	vec01068
+plánovat	vec00256
+plést se	vec00775
+plést si	vec01170
+plížit se	vec00665
+plýtvat	vec00886
+pobavit	vec01070
+pobodat	vec00365
+pobouřit	vec00667
+pobuřovat	vec00667
+pobídnout	vec00361
+pobízet	vec00361
+pochlubit se	vec00418
+pochodit	vec00309
+pochodovat	vec01025
+pochopit	vec00107
+pochválit	vec00675
+pochybit	vec00839
+pochybovat	vec00391
+pocházet	vec00005
+pocházet	vec00071
+pocházet	vec00258
+pociťovat	vec00470
+pocítit	vec00470
+podat	vec00033
+podat	vec00272
+podat	vec00557
+podařit se	vec00257
+podcenit	vec00801
+podceňovat	vec00801
+podepisovat	vec00078
+podepsat	vec00078
+podepřít	vec00069
+podhodnocovat	vec00472
+podhodnotit	vec00472
+podlehnout	vec00870
+podlehnout	vec01071
+podlézat	vec00668
+podnikat	vec01188
+podniknout	vec01188
+podnítit	vec00038
+podněcovat	vec00038
+podněcovat	vec00098
+podobat se	vec00141
+podotknout	vec00994
+podotýkat	vec00994
+podpisovat	vec00078
+podplatit	vec01072
+podplácet	vec01072
+podporovat	vec00069
+podporovat	vec00475
+podpořit	vec00069
+podpořit	vec00475
+podrobit	vec00564
+podrobovat	vec00564
+podrývat	vec00372
+podržet	vec00176
+podržet	vec00475
+podstupovat	vec00379
+podtrhnout	vec00382
+podtrhovat	vec00382
+podvolit se	vec00739
+podvádět	vec00671
+podvést	vec00671
+podávat	vec00039
+podávat	vec00557
+podílet se	vec00067
+podívat se	vec00310
+podívat se	vec00869
+poděkovat	vec00065
+podělit se	vec00304
+podřizovat	vec00669
+podřizovat se	vec00739
+podřídit	vec00669
+podřídit se	vec00739
+pohlcovat	vec00476
+pohltit	vec00476
+pohlížet	vec00402
+pohnout se	vec00022
+pohrdat	vec00674
+pohrozit	vec00477
+pohrávat si	vec00817
+pohybovat se	vec00022
+pohybovat se	vec00070
+pohánět	vec00361
+pohřešovat	vec01073
+pojistit	vec00260
+pojišťovat	vec00260
+pojmenovat	vec00043
+pojmout	vec00366
+pojmout	vec00402
+pojímat	vec00402
+pokazit	vec00372
+poklesnout	vec00028
+pokládat	vec00384
+pokládat	vec00402
+pokoušet se	vec00117
+pokořit	vec00279
+pokračovat	vec00198
+pokračovat	vec00261
+pokračovat	vec00676
+pokrýt	vec00872
+pokrývat	vec00366
+pokrývat	vec00872
+pokusit se	vec00117
+pokutovat	vec00478
+pokárat	vec00620
+polekat se	vec00761
+polevit	vec00028
+polevit	vec00793
+polevovat	vec00793
+položit	vec00384
+položit	vec00735
+polykat	vec00476
+polykat	vec01074
+pominout	vec00873
+pomoci	vec00475
+pomyslet	vec00149
+pomyslet si	vec00032
+pomáhat	vec00475
+pomíjet	vec00460
+pomíjet	vec00873
+pomýšlet	vec00149
+poměřovat	vec00431
+ponechat	vec00012
+ponechat	vec00072
+ponechat	vec00575
+ponechávat	vec00072
+ponořit se	vec00090
+poohlédnout se	vec00021
+poohlížet se	vec00021
+popadat	vec00677
+popadnout	vec00677
+popisovat	vec00417
+popohnat	vec00337
+popojít	vec01025
+popouzet	vec00608
+popovídat si	vec00031
+popraskat	vec00681
+popravit	vec00365
+popsat	vec00417
+poptávat	vec00077
+popudit	vec00608
+popuzovat	vec00608
+popíjet	vec00866
+popírat	vec00050
+popřít	vec00050
+poradit	vec00215
+porazit	vec00279
+porovnat	vec00480
+porovnávat	vec00480
+porozhlížet se	vec00021
+porozumět	vec00107
+porušit	vec00265
+porušovat	vec00265
+porážet	vec00279
+posadit	vec00735
+posadit se	vec00705
+posilovat	vec00109
+posilovat	vec00539
+poskočit	vec00109
+poskytnout	vec00074
+poskytnout	vec00178
+poskytovat	vec00074
+poskytovat	vec00178
+poskytovat	vec00515
+poslat	vec00209
+poslechnout si	vec00445
+poslouchat	vec00445
+posloužit	vec00515
+posmívat se	vec00760
+posoudit	vec00149
+posouvat	vec00283
+posouvat	vec00486
+posouvat se	vec00022
+pospíchat	vec00610
+pospíšit si	vec00722
+postarat se	vec00178
+postavit	vec00075
+postavit	vec00084
+postavit	vec00526
+postavit	vec00735
+postavit	vec00812
+postavit	vec01118
+postavit se	vec00205
+postavit se	vec00373
+postavit se	vec00461
+postavit se	vec00678
+postihnout	vec00372
+postihovat	vec00372
+postoupit	vec00109
+postoupit	vec01087
+postrádat	vec00419
+postrádat	vec00483
+postrčit	vec00361
+postupovat	vec00022
+postupovat	vec00225
+postupovat	vec01087
+postěžovat si	vec00132
+postřehnout	vec00082
+posunout	vec00283
+posunout	vec00486
+posunovat se	vec00022
+posuzovat	vec00402
+posvítit si	vec00090
+posílat	vec00209
+posílit	vec00109
+posílit	vec00298
+posílit	vec00539
+potit se	vec00679
+potkat	vec00372
+potkat se	vec00307
+potlačit	vec00815
+potlačovat	vec00815
+potrestat	vec00484
+potulovat se	vec00403
+potvrdit	vec00078
+potvrdit	vec01076
+potvrzovat	vec00078
+potácet se	vec00875
+potírat	vec00174
+potýkat se	vec00205
+potěšit	vec00231
+potřebovat	vec00077
+potřebovat	vec00270
+poukazovat	vec00332
+poukázat	vec00332
+poučit	vec00531
+poučit se	vec00013
+poučovat	vec00531
+použít	vec00079
+používat	vec00079
+považovat	vec00402
+povolat	vec00485
+povolit	vec00012
+povolovat	vec00012
+povolávat	vec00485
+povyrůst	vec00109
+povzbudit	vec00080
+povzbuzovat	vec00080
+povídat	vec00060
+povídat si	vec00031
+povědět	vec00060
+pověřit	vec00571
+pověřovat	vec00571
+povšimnout si	vec00154
+pozastavit	vec00486
+pozastavovat	vec00486
+pozdržet	vec00486
+pozměnit	vec00095
+pozměňovat	vec00095
+poznamenat	vec00372
+poznamenat	vec00994
+poznamenávat	vec00372
+poznamenávat	vec00994
+poznat	vec00876
+pozorovat	vec00082
+pozorovat	vec00115
+pozvat	vec00487
+pozvednout	vec00069
+pozřít	vec00828
+počkat	vec00003
+počítat	vec00166
+počítat	vec00520
+pořizovat	vec00035
+pořizovat	vec00084
+pořádat	vec01188
+pořídit	vec00035
+pořídit	vec00084
+pořídit	vec00153
+poškodit	vec00372
+poškozovat	vec00372
+požadovat	vec00272
+požádat	vec00272
+pracovat	vec00273
+pracovat	vec00373
+prahnout	vec00877
+pramenit	vec00258
+pranýřovat	vec00230
+praskat	vec00681
+prasknout	vec00681
+pravit	vec00060
+prchat	vec00146
+prchnout	vec00146
+preferovat	vec00334
+prezentovat	vec00330
+privatizovat	vec00683
+probrat	vec00031
+probrat	vec00879
+probrat se	vec00879
+probrat se	vec00880
+probudit se	vec00880
+probíhat	vec00261
+probírat	vec00031
+probírat	vec00879
+proběhnout	vec00097
+procházet	vec00379
+procházet	vec00684
+prodat	vec00083
+prodiskutovat	vec00031
+prodiskutovávat	vec00031
+prodloužit	vec00274
+prodlužovat	vec00274
+produkovat	vec00084
+prodávat	vec00083
+prodělat	vec00379
+prodělat	vec01193
+prodělávat	vec00379
+prodělávat	vec01193
+profitovat	vec00169
+prohlašovat	vec00060
+prohlašovat	vec00488
+prohledávat	vec00684
+prohloubit	vec00785
+prohlubovat	vec00785
+prohlásit	vec00060
+prohlásit	vec00488
+prohlédnout si	vec00869
+prohnat se	vec00881
+prohnout se	vec00993
+prohrát	vec00275
+prohrávat	vec00275
+projednat	vec00162
+projednávat	vec00162
+projet	vec00882
+projevit	vec00243
+projevit	vec00354
+projevit se	vec00086
+projevit se	vec00164
+projevit se	vec00883
+projevovat	vec00354
+projevovat se	vec00086
+projevovat se	vec00164
+projevovat se	vec00883
+projít	vec00379
+projít	vec00684
+projít	vec00686
+projíždět	vec00882
+prokazovat	vec00087
+proklestit	vec00884
+prokázat	vec00087
+prolomit	vec00885
+promarnit	vec00886
+prominout	vec01058
+promluvit	vec00031
+promluvit si	vec00031
+promrhat	vec00886
+promrhávat	vec00886
+promyslet	vec01081
+promíchat	vec00623
+promíjet	vec01058
+promítat se	vec01080
+promítnout se	vec01080
+promýšlet	vec01081
+proměnit	vec00095
+proměnit se	vec01132
+proměňovat	vec00095
+proměňovat se	vec01132
+pronajmout	vec00490
+pronajmout	vec01082
+pronajímat	vec00490
+pronajímat	vec01082
+pronikat	vec00218
+proniknout	vec00218
+pronásledovat	vec00687
+pronést	vec00060
+propadat	vec00599
+propadat se	vec00028
+propadnout	vec00028
+propadnout	vec00599
+propadnout se	vec00028
+propagovat	vec00276
+proplést	vec00723
+propojit	vec00519
+propojit	vec00723
+propojovat	vec00519
+propouštět	vec00555
+propustit	vec00555
+prorazit	vec00688
+prorazit	vec00888
+prorokovat	vec00093
+prosadit	vec00743
+prosadit se	vec00689
+prosazovat	vec00743
+prosperovat	vec00510
+prostudovat	vec00090
+prostudovávat	vec00090
+protahovat	vec00274
+protestovat	vec00461
+protlačit	vec00546
+protlačovat	vec00546
+protrpět	vec00491
+protáhnout	vec00274
+protřídit	vec00879
+proudit	vec00952
+provozovat	vec00277
+provádět	vec00090
+provádět	vec01188
+provést	vec00089
+provést	vec00090
+provést	vec01188
+prověřit	vec00090
+prověřovat	vec00090
+prozkoumat	vec00090
+prozradit	vec00060
+prozrazovat	vec00060
+pročesat	vec00684
+pročesávat	vec00684
+prošetřit	vec00090
+prošetřovat	vec00090
+prožít	vec00379
+prožívat	vec00379
+prát se	vec00121
+psát	vec00037
+psát	vec00060
+ptát se	vec00384
+publikovat	vec00351
+pustit se	vec00698
+putovat	vec00403
+pyšnit se	vec00418
+páchat	vec00009
+páchnout	vec00926
+pást se	vec01067
+pátrat	vec00021
+pít	vec00866
+pěstovat	vec00468
+přebíhat	vec01086
+přebírat	vec00189
+přebývat	vec00394
+přeběhnout	vec00048
+přeběhnout	vec01085
+přecenit	vec00634
+přeceňovat	vec00634
+přechovávat	vec00921
+přecházet	vec00227
+přecházet	vec00496
+přecházet	vec01025
+předat	vec01087
+předcházet	vec00174
+předcházet	vec00692
+předejít	vec00174
+předejít	vec00692
+předepisovat	vec00743
+předepsat	vec00743
+předjímat	vec00093
+předkládat	vec00033
+předložit	vec00033
+předložit	vec00039
+předložit	vec00087
+přednášet	vec00531
+přednést	vec00531
+předpokládat	vec00032
+předpokládat	vec00092
+předpovídat	vec00093
+předpovědět	vec00093
+předsedat	vec00302
+představit	vec00330
+představit si	vec00493
+představovat	vec00366
+představovat si	vec00493
+předstihnout	vec00279
+předstoupit	vec00057
+předstírat	vec00693
+předurčit	vec00889
+předurčovat	vec00889
+předvolat	vec00485
+předvolávat	vec00485
+předvádět se	vec00890
+předvést se	vec00890
+předvídat	vec00093
+předznamenat	vec00194
+předznamenávat	vec00194
+předávat	vec01087
+předčit	vec00279
+předčit	vec00280
+předčítat	vec00690
+předělat	vec00095
+předělávat	vec00095
+přeformulovat	vec01093
+přehlušit	vec00279
+přehlédnout	vec00460
+přehlížet	vec00460
+přehnat	vec00634
+přehodnocovat	vec00095
+přehodnotit	vec00095
+přehodnotit	vec00149
+přehánět	vec00634
+přejmenovat	vec00891
+přejít	vec00048
+přejít	vec00113
+přejít	vec00496
+překazit	vec00174
+překonat	vec00279
+překonat	vec00280
+překonávat	vec00279
+překonávat	vec00280
+překračovat	vec00280
+překroutit	vec00791
+překročit	vec00280
+překrucovat	vec00791
+překrývat se	vec00892
+překvapit	vec00094
+překypovat	vec00893
+přeložit	vec00894
+přelstít	vec00766
+přemisťovat	vec00894
+přemístit	vec00894
+přemístit se	vec00022
+přemítat	vec00149
+přemýšlet	vec00149
+přeměnit	vec00095
+přeměnit se	vec01132
+přeměňovat	vec00095
+přenechat	vec00497
+přenášet	vec00283
+přenést	vec00283
+přeorganizovat	vec00896
+přeorientovat	vec00895
+přeorientovat se	vec00496
+přepnout se	vec00496
+přepočíst	vec01093
+přepočítat	vec01093
+přepočítávat	vec01093
+přepracovat	vec00095
+přepracovávat	vec00095
+přepravit	vec00283
+přerozdělit	vec00694
+přerušit	vec00198
+přerušovat	vec00198
+přesahovat	vec00280
+přesedlat	vec00496
+přeskakovat	vec01086
+přeskočit	vec00560
+přeskočit	vec01086
+přeskupovat	vec00894
+přesměrovat	vec01094
+přesměrovávat	vec01094
+přesouvat	vec00283
+přestavovat	vec00095
+přestavět	vec00095
+přestát	vec00970
+přestávat	vec00113
+přestávat	vec00942
+přestěhovat	vec00283
+přestěhovat se	vec00048
+přesunout	vec00283
+přesunout se	vec00048
+přesunovat	vec00283
+přesunovat se	vec00048
+přesvědčit	vec00098
+přesytit	vec00576
+přesáhnout	vec00280
+přesídlit	vec00048
+přetransformovat	vec00095
+přetvořit	vec00095
+přetvářet	vec00095
+převyšovat	vec00280
+převzít	vec00096
+převzít	vec00613
+převzít	vec00683
+převádět	vec00095
+převádět	vec00283
+převážet	vec00172
+převést	vec00283
+převézt	vec00172
+převýšit	vec00280
+přezdívat	vec00043
+přezkoumat	vec00090
+přezkoumávat	vec00090
+přečkat	vec00491
+přečkávat	vec00491
+přečíst	vec00207
+přečíst	vec00690
+přeřadit	vec00283
+přežít	vec00491
+přežívat	vec00491
+přibližovat se	vec01001
+přiblížit se	vec01001
+přibrat	vec00175
+přicházet	vec00097
+přicházet	vec00127
+přicházet	vec00218
+přicházet	vec00233
+přicházet	vec00258
+přicházet	vec00393
+přidat	vec00175
+přidat	vec00499
+přidat se	vec00239
+přidávat	vec00175
+přidávat	vec00499
+přidávat se	vec00067
+přidávat se	vec00239
+přidělit	vec00571
+přidělovat	vec00571
+přihlásit se	vec00239
+přihodit se	vec00097
+přijet	vec00218
+přijmout	vec00078
+přijmout	vec00189
+přijmout	vec00369
+přijímat	vec00078
+přijímat	vec00189
+přijímat	vec00369
+přijímat	vec00546
+přijít	vec00127
+přijít	vec00128
+přijít	vec00218
+přijít	vec00233
+přijít	vec00258
+přijít	vec00393
+přijít	vec00898
+přijít	vec01096
+přijít	vec01193
+přijíždět	vec00218
+přikazovat	vec01013
+přikládat	vec00735
+přikoupit	vec00035
+přikračovat	vec00500
+přikročit	vec00500
+přikyvovat	vec01097
+přikázat	vec01013
+přiložit	vec00407
+přilákat	vec00188
+přilákat	vec00286
+přimlouvat se	vec00069
+přimluvit se	vec00069
+přimět	vec00098
+přinutit	vec00098
+přinášet	vec00011
+přinášet	vec00060
+přinášet	vec00355
+přinést	vec00011
+přinést	vec00355
+přiostřit	vec00785
+přiostřit se	vec00730
+přiostřovat	vec00785
+připadat	vec00032
+připadat si	vec00204
+připadnout	vec00027
+připadnout	vec00032
+připevnit	vec00899
+připevňovat	vec00899
+připisovat	vec00291
+připojit	vec00519
+připojit se	vec00239
+připojovat	vec00175
+připojovat se	vec00239
+připomenout	vec00099
+připomínat	vec00099
+připouštět	vec00503
+připravit	vec00502
+připravit	vec00900
+připravit	vec01187
+připravit se	vec00290
+připravovat	vec00502
+připravovat	vec00900
+připravovat se	vec00290
+připsat	vec00291
+připustit	vec00503
+přirovnat	vec00101
+přirovnávat	vec00101
+přislíbit	vec00311
+přisoudit	vec00291
+přispívat	vec00067
+přispěchat	vec00722
+přispět	vec00067
+přispět	vec00695
+přistoupit	vec00038
+přistoupit	vec00120
+přistoupit	vec00218
+přistoupit	vec00500
+přistupovat	vec00120
+přistupovat	vec00218
+přistupovat	vec00500
+přistát	vec00901
+přistávat	vec00901
+přisuzovat	vec00291
+přitahovat	vec00188
+přitáhnout	vec00188
+přiučit se	vec00013
+přivodit	vec00196
+přivyknout	vec00696
+přivádět	vec00812
+přivážet	vec00011
+přivést	vec00011
+přivést	vec00098
+přivést	vec00812
+přivézt	vec00011
+přivítat	vec01145
+přiznat	vec00078
+přiznat	vec00503
+přiznat se	vec00503
+přiznávat	vec00503
+přiznávat se	vec00503
+přizpůsobit	vec00902
+přizpůsobit se	vec00696
+přizpůsobovat	vec00902
+přizpůsobovat se	vec00696
+přizvat	vec00487
+přičíst	vec00175
+přičíst	vec00291
+přičítat	vec00291
+přiřadit	vec00291
+přát	vec01084
+přát si	vec00219
+přísahat	vec00311
+přít se	vec00121
+půjčit si	vec00505
+půjčovat si	vec00505
+působit	vec00054
+působit	vec00164
+působit	vec00221
+radit	vec00215
+radit se	vec00031
+ratifikovat	vec00078
+reagovat	vec00102
+realizovat	vec00179
+realizovat	vec01188
+recyklovat	vec01098
+redefinovat	vec00103
+redukovat	vec00118
+referovat	vec00060
+refinancovat	vec00125
+reflektovat	vec00141
+registrovat	vec00507
+regulovat	vec00302
+reinvestovat	vec00147
+reprezentovat	vec00375
+respektovat	vec00303
+restrukturalizovat	vec00095
+rezignovat	vec00942
+rezonovat	vec01099
+režírovat	vec00302
+riskovat	vec00104
+rodit se	vec00197
+rovnat se	vec00206
+rovnat se	vec00250
+rozběhnout	vec00038
+rozcházet se	vec00905
+rozcupovat	vec00903
+rozdat	vec00209
+rozdrtit	vec00389
+rozdrtit	vec00903
+rozdávat	vec00209
+rozdělit	vec00209
+rozdělit	vec00296
+rozdělovat	vec00209
+rozdělovat	vec00296
+rozebírat	vec00031
+rozejít se	vec00905
+rozeslat	vec00209
+rozesílat	vec00209
+rozeznat	vec00909
+rozeznávat	vec00909
+rozeznít	vec00038
+rozhodnout	vec00127
+rozhodnout	vec00509
+rozhodnout se	vec00106
+rozhodnout se	vec00297
+rozhodovat	vec00127
+rozhodovat	vec00509
+rozhodovat se	vec00106
+rozhořčit	vec00667
+rozházet	vec00105
+rozjet	vec00038
+rozjet se	vec00097
+rozjíždět	vec00038
+rozjíždět se	vec00097
+rozkládat	vec00296
+rozladit	vec00608
+rozlišit	vec01102
+rozlišovat	vec01102
+rozložit	vec00296
+rozmyslet se	vec01044
+rozmyslet si	vec00149
+rozpadnout se	vec00113
+rozplakat se	vec00867
+rozpoutat	vec00038
+rozpoutat se	vec00097
+rozpoutávat	vec00038
+rozpoznat	vec00909
+rozpoznat	vec01102
+rozpoznávat	vec00909
+rozprodat	vec00083
+rozprodávat	vec00083
+rozprostřít	vec00694
+rozproudit	vec00038
+rozptylovat se	vec00911
+rozptýlit	vec00910
+rozptýlit se	vec00911
+rozpustit	vec00198
+rozpůlit	vec00296
+rozrušit	vec00372
+rozrůst se	vec00109
+rozrůstat se	vec00109
+roztavit se	vec01103
+roztřídit	vec00296
+rozumět	vec00107
+rozvažovat	vec00149
+rozvinout	vec00914
+rozvinout se	vec00510
+rozvádět	vec00108
+rozvádět se	vec01104
+rozvést	vec00108
+rozvést se	vec01104
+rozvíjet se	vec00510
+rozvířit	vec00915
+rozzlobit	vec00701
+rozzuřit	vec00701
+rozčilovat	vec00904
+rozšiřovat	vec00298
+rozšiřovat	vec00912
+rozšiřovat se	vec00510
+rozštěpit	vec00296
+rozšířit	vec00298
+rozšířit	vec00912
+rozšířit se	vec00109
+rozšířit se	vec00510
+ručit	vec00511
+rušit	vec00198
+rýsovat se	vec00703
+rýžovat	vec01105
+růst	vec00109
+růst	vec00510
+různit se	vec00829
+sahat	vec00713
+sahat	vec00917
+sbírat	vec00443
+schovat	vec00514
+schovávat	vec00514
+schraňovat	vec00443
+schvalovat	vec00078
+schválit	vec00078
+sdružit	vec00623
+sdružit se	vec00318
+sdružovat	vec00623
+sdílet	vec00304
+sdělit	vec00060
+sdělovat	vec00060
+sebrat	vec00704
+sednout si	vec00705
+sedět	vec00305
+sedět	vec00373
+sehrát	vec00222
+sehrát	vec00415
+sehrávat	vec00222
+sejmout	vec00962
+sejít se	vec00307
+selhat	vec00599
+selhávat	vec00599
+sesadit	vec00380
+sestavit	vec00084
+sestavovat	vec00084
+sestávat	vec00366
+setkat se	vec00307
+setkat se	vec00379
+setkávat se	vec00307
+setkávat se	vec00379
+setrvat	vec00199
+setrvávat	vec00199
+seznamovat se	vec00876
+seznat	vec00032
+seznat	vec00082
+seznámit se	vec00876
+shazovat	vec00707
+shazovat	vec01106
+shazovat	vec01107
+shazovat	vec01108
+shledat	vec00127
+shledat	vec00402
+shledávat	vec00032
+shodit	vec01106
+shodit	vec01108
+shrnout	vec00709
+shrnovat	vec00709
+shromažďovat	vec00443
+shromažďovat se	vec00710
+shromáždit	vec00443
+shromáždit se	vec00710
+shrábnout	vec00708
+signalizovat	vec00330
+simulovat	vec01109
+sjednat	vec00162
+sjednotit	vec00723
+sjednávat	vec00162
+skandovat	vec01114
+skladovat	vec00921
+sklidit	vec00708
+sklidit	vec00712
+sklouznout	vec00028
+sklouznout	vec01115
+sklouzávat	vec01115
+skládat se	vec00366
+sklízet	vec00712
+skončit	vec00113
+skončit	vec00213
+skončit	vec00309
+skončit	vec00741
+skotačit	vec00922
+skoupit	vec00035
+skočit	vec00109
+skočit	vec00713
+skočit	vec00747
+skrýt	vec00514
+skrývat	vec00514
+skrývat se	vec00714
+skupovat	vec00035
+skákat	vec01113
+sledovat	vec00115
+sledovat	vec00310
+slibovat	vec00311
+sloučit	vec00519
+sloučit	vec00623
+sloučit se	vec00318
+sloužit	vec00221
+sloužit	vec00373
+sloužit	vec00515
+složit	vec00601
+slučovat se	vec00318
+slyšet	vec00013
+slyšet	vec00313
+slábnout	vec00463
+slíbit	vec00311
+slýchat	vec00313
+slýchávat	vec00313
+smazat	vec00923
+smazávat	vec00923
+smiřovat se	vec00719
+smrdět	vec00926
+smrštit se	vec00028
+smát se	vec00717
+smát se	vec00718
+smést	vec00380
+smést	vec00924
+smířit se	vec00719
+smýkat	vec00819
+směnit	vec00030
+směřovat	vec00434
+směřovat	vec00516
+směřovat	vec00859
+snažit se	vec00117
+snižovat	vec00118
+snižovat se	vec00028
+snášet	vec00970
+snést	vec00970
+sníst	vec00828
+snít	vec00877
+snížit	vec00118
+snížit se	vec00028
+soudit	vec00720
+souhlasit	vec00120
+souhlasit	vec00929
+soupeřit	vec00121
+soustředit	vec00859
+soustředit se	vec00859
+soustřeďovat se	vec00115
+soutěžit	vec00121
+souviset	vec00328
+spadnout	vec00028
+spadnout	vec00467
+spadnout	vec01115
+spatřit	vec00154
+specializovat se	vec00314
+specifikovat	vec00108
+spekulovat	vec00149
+splatit	vec00125
+splnit	vec00316
+splynout	vec00318
+splácet	vec00125
+splývat	vec00318
+splňovat	vec00316
+spojit	vec00407
+spojit	vec00519
+spojit	vec00723
+spojit se	vec00318
+spojovat	vec00407
+spojovat	vec00519
+spojovat	vec00723
+spojovat se	vec00318
+spokojit se	vec00724
+spolehnout se	vec00520
+spolupracovat	vec00319
+spoluzaložit	vec00179
+spoléhat	vec00520
+spoléhat se	vec00520
+sponzorovat	vec00410
+spouštět	vec00038
+spočítat	vec00166
+spočívat	vec00317
+spravit	vec00462
+spravovat	vec00302
+spravovat	vec00462
+spustit	vec00038
+spáchat	vec00009
+spálit se	vec00721
+spát	vec00518
+spěchat	vec00610
+spěchat	vec00722
+spřáhnout se	vec00318
+srazit	vec00118
+srovnat	vec00480
+srovnat	vec00725
+srovnat se	vec01128
+srovnávat	vec00480
+srážet	vec00118
+stabilizovat	vec00521
+stabilizovat se	vec00522
+stahovat	vec00198
+stahovat se	vec00048
+standardizovat	vec01117
+stanout	vec00323
+stanovit	vec00127
+stanovit	vec00166
+stanovit	vec00322
+stanovit	vec00743
+stanovovat	vec00127
+stanovovat	vec00166
+stanovovat	vec00322
+stanovovat	vec00743
+starat se	vec00574
+stavit	vec00084
+stavět	vec00084
+stavět	vec01118
+stavět se	vec00131
+stavět se	vec00461
+stačit	vec00412
+stimulovat	vec00069
+stisknout	vec00728
+stlačit	vec00118
+stlačovat	vec00118
+stoupat	vec00109
+stoupnout	vec00109
+stočit se	vec00931
+strachovat se	vec00243
+stranit	vec00069
+strkat	vec00932
+strpět	vec00491
+strukturovat	vec00526
+strávit	vec00325
+strčit	vec00932
+studovat	vec00090
+studovat	vec00527
+stupňovat se	vec00730
+stvořit	vec00084
+stvrdit	vec00078
+stvrzovat	vec00078
+stáhnout	vec00198
+stáhnout	vec00321
+stát	vec00128
+stát	vec00205
+stát	vec00206
+stát	vec00323
+stát	vec00326
+stát se	vec00006
+stát se	vec00097
+stát se	vec00524
+stát se	vec01132
+stát si	vec00153
+stát si	vec00678
+stávat	vec00206
+stávat	vec00323
+stávat se	vec00006
+stávat se	vec00524
+stávat se	vec01132
+stávkovat	vec00727
+stíhat	vec01119
+stěhovat se	vec00048
+stěžovat si	vec00132
+střelit	vec00365
+střelit	vec00729
+střežit	vec00820
+střídat	vec00565
+střílet	vec00729
+subvencovat	vec00410
+sužovat	vec00740
+svazovat	vec00519
+svolávat	vec00485
+svrhnout	vec00380
+svázat	vec00519
+svědčit	vec00561
+svěřit	vec00074
+svěřit	vec00571
+svěřovat se	vec00503
+symbolizovat	vec01121
+sázet	vec00112
+sídlit	vec00308
+sílit	vec00510
+sípat	vec01110
+sít	vec01111
+sčítat	vec00919
+tajit	vec00514
+tancovat	vec00934
+tančit	vec00934
+telefonovat	vec00581
+testovat	vec00058
+tečkovat	vec01123
+tisknout	vec00528
+tkvít	vec00317
+tlačit	vec00812
+tlačit	vec01124
+tlačit se	vec00833
+tleskat	vec00135
+tlumit	vec00815
+tolerovat	vec01128
+topit se	vec01130
+toužit	vec00877
+točit se	vec01126
+transformovat	vec00095
+transformovat se	vec01132
+transportovat	vec00283
+tratit	vec01193
+trestat	vec00484
+trvat	vec00261
+trvat	vec00326
+trvat	vec00530
+trápit	vec00547
+trápit se	vec01133
+trávit	vec00325
+tvořit	vec00084
+tvořit	vec00206
+tvrdit	vec00060
+táhnout	vec00069
+táhnout	vec00286
+tápat	vec00935
+téci	vec00952
+tíhnout	vec00516
+tísnit se	vec00833
+týkat se	vec00328
+těšit se	vec00003
+těšit se	vec00742
+těžit	vec00169
+těžit	vec00732
+třást se	vec00937
+třídit	vec00879
+ubezpečit	vec00535
+ubezpečovat	vec00535
+ubližovat	vec00372
+ublížit	vec00372
+ubodat	vec00365
+ubrat	vec00648
+ubírat se	vec00516
+uchlácholit	vec00536
+uchovávat	vec00176
+uchránit	vec00024
+uchvátit	vec00708
+uchylovat se	vec01136
+uchytit se	vec00689
+ucházet se	vec00423
+ucítit	vec00203
+udat	vec00060
+udržet	vec00014
+udržet	vec00176
+udržet	vec00412
+udržet se	vec00199
+udržet se	vec00394
+udržet si	vec00176
+udržovat	vec00014
+udržovat	vec00176
+udát se	vec00097
+udávat	vec00163
+udělat	vec00033
+udělat	vec00084
+udělat	vec00089
+udělat	vec00196
+udělat	vec00533
+udělat	vec01188
+udělit	vec00208
+udělit	vec01087
+udělovat	vec00208
+udělovat	vec01087
+uhradit	vec00125
+uhrazovat	vec00125
+ujistit	vec00535
+ujmout se	vec00613
+ujídat	vec00828
+ujímat se	vec00613
+ujíst	vec00828
+ujíždět	vec00811
+ukazovat	vec00087
+ukazovat	vec00141
+ukazovat	vec00330
+ukazovat	vec00332
+ukazovat se	vec00086
+ukazovat se	vec00245
+ukazovat se	vec00331
+uklidnit	vec00536
+uklidnit se	vec00733
+uklidňovat	vec00536
+uklidňovat se	vec00733
+uklouznout	vec00734
+ukládat	vec00743
+ukládat	vec00921
+ukončit	vec00213
+ukončit	vec00741
+ukončovat	vec00213
+ukradnout	vec00704
+ukrajovat	vec00940
+ukrojit	vec00940
+ukrádat	vec00704
+ukrást	vec00704
+ukrývat se	vec00714
+ukázat	vec00087
+ukázat	vec00141
+ukázat	vec00330
+ukázat	vec00332
+ukázat se	vec00087
+ukázat se	vec00331
+uloupit	vec00704
+uložit	vec00921
+umisťovat	vec00735
+umlčet	vec00091
+umlčovat	vec00091
+umořit	vec00125
+umořovat	vec00125
+umožnit	vec00012
+umožňovat	vec00012
+umírat	vec00383
+umístit	vec00735
+umísťovat	vec00440
+umýt si	vec01137
+umřít	vec00383
+uniknout	vec00048
+unést	vec01138
+upadnout	vec01115
+upevnit	vec00539
+upevňovat	vec00539
+upgradovat	vec00386
+upisovat	vec00941
+uplatnit	vec00079
+uplatňovat	vec00079
+uplatňovat	vec00117
+uplácet	vec01072
+upouštět	vec00942
+upozornit	vec00332
+upozorňovat	vec00332
+upravit	vec00095
+upravovat	vec00095
+uprchnout	vec00146
+upsat	vec00941
+upustit	vec00942
+upřednostnit	vec00334
+upřednostňovat	vec00334
+upřesnit	vec00108
+upřesňovat	vec00108
+urazit	vec00736
+urovnat	vec00356
+urovnávat	vec00356
+urychlit	vec00337
+urychlovat	vec00337
+urážet	vec00736
+určit	vec00127
+určit	vec00166
+určit	vec00322
+určit	vec00509
+určit	vec00859
+určovat	vec00127
+určovat	vec00166
+určovat	vec00322
+určovat	vec00859
+usadit se	vec00308
+usadit se	vec00522
+usadit se	vec00741
+usazovat se	vec00522
+usilovat	vec00117
+uskutečnit	vec01188
+uskutečnit se	vec00097
+uskutečňovat	vec01188
+uskutečňovat se	vec00097
+uslyšet	vec00013
+usmrcovat	vec00365
+usmrtit	vec00365
+usmát se	vec00718
+usmívat se	vec00718
+usměrnit	vec00302
+usměrňovat	vec00302
+usoudit	vec00032
+usoudit	vec00127
+uspokojit	vec00540
+uspokojovat	vec00540
+uspořádat	vec00502
+uspíšit	vec00337
+uspět	vec00338
+usrkávat	vec00866
+ustalovat se	vec00522
+ustanovit	vec00127
+ustanovit	vec00179
+ustat	vec00113
+ustavit	vec00322
+ustavovat	vec00179
+ustoupit	vec00028
+ustoupit	vec00143
+ustoupit	vec00739
+ustoupit	vec00793
+ustoupit	vec00942
+ustupovat	vec00143
+ustupovat	vec00739
+ustupovat	vec00942
+ustálit	vec00521
+ustálit se	vec00522
+ustávat	vec00463
+usuzovat	vec00032
+usvědčit	vec00541
+utahovat	vec00943
+utišit	vec00536
+utišovat	vec00536
+utlumit	vec00055
+utratit	vec00147
+utrpět	vec00340
+utrpět	vec00740
+utrácet	vec00147
+utržit	vec00169
+utužovat	vec00539
+utvořit	vec00944
+utvářet	vec00944
+utáhnout	vec00943
+utéci	vec00146
+utíkat	vec00146
+uvalit	vec00543
+uvalovat	vec00543
+uvažovat	vec00149
+uvažovat	vec01044
+uveřejnit	vec00351
+uveřejňovat	vec00351
+uvidět	vec00154
+uvolnit	vec00545
+uvolnit	vec00947
+uvolnit	vec01140
+uvolňovat	vec00545
+uvolňovat	vec00947
+uvrhnout	vec00812
+uvádět	vec00060
+uvádět	vec00322
+uvádět	vec00812
+uvážit	vec00149
+uvést	vec00060
+uvést	vec00342
+uvést	vec00812
+uvést	vec00946
+uvítat	vec00135
+uvíznout	vec00394
+uvědomit si	vec00341
+uvědomovat si	vec00341
+uvěznit	vec00544
+uvězňovat	vec00544
+uvěřit	vec00345
+uzavírat	vec00213
+uzavírat	vec00741
+uzavřít	vec00376
+uzavřít	vec00741
+uzavřít se	vec00948
+uznat	vec00503
+uznávat	vec00503
+uzpůsobit	vec00095
+uzákonit	vec00546
+uzákoňovat	vec00546
+učinit	vec00089
+učinit	vec00329
+učinit	vec01188
+učit	vec00531
+učit se	vec00013
+učívat	vec00531
+ušetřit	vec00144
+ušklíbnout se	vec00145
+uškodit	vec00372
+užít	vec00079
+užít si	vec00742
+užívat	vec01004
+užívat si	vec00742
+vadit	vec00547
+valit se	vec00949
+varovat	vec00344
+vcházet	vec00218
+vejít	vec00218
+vejít	vec00586
+velebit	vec00675
+verbovat	vec00369
+vetovat	vec00174
+večeřet	vec00950
+vidět	vec00154
+vidět	vec00402
+vinit	vec00347
+viset	vec00551
+vkládat	vec00147
+vkládat	vec00778
+vlastnit	vec00348
+vlnit se	vec01147
+vložit	vec00147
+vložit	vec00735
+vládnout	vec00302
+vládnout	vec00951
+vlákat	vec00286
+vléci	vec01146
+vlévat se	vec00952
+vnucovat	vec00743
+vnutit	vec00743
+vnést	vec00812
+vnímat	vec00402
+volat	vec00581
+volit	vec00106
+vracet	vec00745
+vracet se	vec00218
+vracet se	vec00744
+vraždit	vec00365
+vrcholit	vec00977
+vrhat	vec00812
+vrhat	vec00954
+vrhat se	vec00747
+vrhnout	vec00954
+vrhnout se	vec00618
+vrhnout se	vec00713
+vrhnout se	vec00747
+vrtat se	vec00818
+vrátit	vec00745
+vrátit se	vec00218
+vrátit se	vec00744
+vrávorat	vec00626
+vsadit	vec00112
+vsadit se	vec01148
+vstoupit	vec00218
+vstoupit	vec00239
+vstoupit	vec00586
+vstupovat	vec00218
+vstupovat	vec00239
+vstupovat	vec00586
+vstát	vec00979
+vstávat	vec00749
+vstávat	vec00979
+vstřebat	vec00476
+vstřebávat	vec00476
+vsázet	vec00112
+vtipkovat	vec00750
+vtrhnout	vec00751
+vtrhávat	vec00227
+vtáhnout	vec00812
+vybavit	vec00752
+vybavit si	vec00364
+vybavovat	vec00752
+vybojovat	vec00956
+vybrat	vec00106
+vybuchnout	vec00018
+vybudovat	vec00084
+vybudovat	vec00179
+vybudovat	vec01118
+vybídnout	vec00361
+vybírat	vec00106
+vybízet	vec00361
+vyběhnout	vec00048
+vychloubat se	vec00418
+vychutnat si	vec00742
+vychutnávat si	vec00742
+vychvalovat	vec00675
+vychylovat se	vec00626
+vycházet	vec00086
+vycházet	vec00160
+vycházet	vec00227
+vycházet	vec00258
+vychýlit se	vec00626
+vycouvat	vec00942
+vycvičit	vec00763
+vydat	vec00060
+vydat	vec00074
+vydat	vec00147
+vydat	vec00351
+vydat	vec01149
+vydat se	vec00022
+vydechnout si	vec00959
+vydražit	vec01151
+vydržet	vec00491
+vydávat	vec00147
+vydávat	vec00351
+vydávat se	vec00022
+vydávat se	vec01150
+vydírat	vec00753
+vydělávat	vec00189
+vyděsit	vec00761
+vygenerovat	vec00355
+vyhazovat	vec00555
+vyhladovět	vec00158
+vyhlašovat	vec00060
+vyhledat	vec00021
+vyhledávat	vec00021
+vyhlásit	vec00060
+vyhlásit	vec00488
+vyhnat	vec00298
+vyhnat	vec00555
+vyhnout se	vec00045
+vyhodit	vec00555
+vyhodnocovat	vec00159
+vyhodnotit	vec00159
+vyhostit	vec00555
+vyhovovat	vec00540
+vyhovovat	vec00960
+vyhovět	vec00540
+vyhradit	vec00556
+vyhrožovat	vec00477
+vyhrát	vec00189
+vyhrát	vec00352
+vyhrávat	vec00352
+vyhánět	vec00298
+vyhánět	vec00555
+vyhýbat se	vec00045
+vyjadřovat	vec00354
+vyjadřovat	vec00784
+vyjadřovat se	vec00161
+vyjednat	vec00162
+vyjednávat	vec00162
+vyjmenovat	vec01029
+vyjmenovávat	vec01029
+vyjmout	vec00962
+vyjádřit	vec00354
+vyjádřit	vec00784
+vyjádřit se	vec00161
+vyjímat	vec00555
+vyjít	vec00048
+vyjít	vec00086
+vyjít	vec00128
+vyjít	vec00160
+vyjít	vec00206
+vyjít	vec00258
+vyjít	vec00309
+vykalkulovat	vec00166
+vyklopit	vec00125
+vykládat	vec00557
+vykládat	vec01156
+vyklízet	vec01157
+vykolejit	vec00961
+vykompenzovat	vec00356
+vykonat	vec01188
+vykonávat	vec00373
+vykoupit	vec00035
+vykořisťovat	vec00591
+vykreslit	vec00417
+vykreslovat	vec00417
+vykrmovat	vec00468
+vykrvácet	vec00625
+vykupovat	vec00035
+vykázat	vec00163
+vykřikovat	vec00426
+vylepšit	vec00386
+vylepšovat	vec00386
+vyletět	vec00109
+vyloučit	vec00555
+vyloučit	vec00558
+vyložit	vec00557
+vylučovat	vec00555
+vylučovat	vec00558
+vylétnout	vec00109
+vyléčit	vec00628
+vylíčit	vec00417
+vymalovat	vec00638
+vymazat	vec00962
+vymezit	vec00127
+vymezovat	vec00127
+vymizet	vec00755
+vymknout se	vec00756
+vymykat se	vec00756
+vymyslet	vec00040
+vymírat	vec00755
+vyměnit	vec00030
+vyměnit	vec00429
+vyměňovat	vec00030
+vyměňovat	vec00429
+vymřít	vec00755
+vynakládat	vec00147
+vynaložit	vec00147
+vynechat	vec00560
+vynechávat	vec00560
+vynikat	vec00964
+vynořit se	vec00086
+vynořovat se	vec00086
+vynášet	vec00355
+vynést	vec00172
+vynést	vec00355
+vypadat	vec00164
+vypadat	vec00381
+vyplatit	vec00125
+vyplatit	vec01159
+vyplatit se	vec00757
+vyplivnout	vec00614
+vyplivovat	vec00614
+vyplnit	vec00577
+vyplnit	vec00966
+vyplynout	vec00258
+vyplácet	vec00125
+vyplácet	vec01159
+vyplácet se	vec00757
+vyplýtvat	vec00886
+vyplývat	vec00258
+vyplňovat	vec00577
+vyplňovat	vec00966
+vypnout	vec00965
+vypomoci	vec00475
+vypomáhat	vec00475
+vypovídat	vec00198
+vypovídat	vec00561
+vypovědět	vec00198
+vypovědět	vec00561
+vypočíst	vec00166
+vypočítat	vec00166
+vypočítávat	vec00166
+vypořádat se	vec00205
+vypořádávat	vec00301
+vypořádávat se	vec00205
+vypracovat	vec00562
+vypracovávat	vec00562
+vyprazdňovat	vec01160
+vyprchat	vec00755
+vyprodukovat	vec00084
+vyprovokovat	vec00098
+vyprázdnit	vec01160
+vypršet	vec00113
+vypsat	vec00127
+vyptat se	vec00384
+vyptávat se	vec00384
+vypudit	vec00555
+vypuzovat	vec00555
+vypínat	vec00965
+vypůjčit si	vec00505
+vypůjčovat si	vec00505
+vyrazit	vec00048
+vyrobit	vec00084
+vyrovnat	vec00356
+vyrovnávat	vec00356
+vyrozumět	vec00060
+vyrábět	vec00084
+vyrůst	vec00109
+vyskočit	vec00109
+vyskočit	vec00759
+vyskytnout se	vec00017
+vyskytnout se	vec00245
+vyskytovat se	vec00245
+vyslat	vec00209
+vyslechnout si	vec00445
+vyslovit	vec00354
+vyslovit se	vec00161
+vyslovovat	vec00354
+vyslyšet	vec00540
+vysmát se	vec00760
+vysmívat se	vec00760
+vystavit	vec00564
+vystavovat	vec00564
+vystavět	vec00084
+vystavět	vec00179
+vystoupat	vec00109
+vystoupit	vec00109
+vystoupit	vec00461
+vystrašit	vec00761
+vystupovat	vec00048
+vystupovat	vec00461
+vystupovat	vec00611
+vystát	vec00970
+vystěhovat se	vec00048
+vystřelit	vec00109
+vystřelit	vec00762
+vystřihnout	vec01161
+vystřídat	vec00565
+vysvětlit	vec00450
+vysvětlit si	vec00402
+vysvětlovat	vec00450
+vysypávat	vec01160
+vysát	vec00957
+vysávat	vec00957
+vysílat	vec00209
+vysílat	vec00358
+vytahovat	vec00648
+vytisknout	vec00528
+vytknout	vec00620
+vytlačit	vec00298
+vytlačit	vec00555
+vytlačovat	vec00555
+vytratit se	vec00755
+vytrhnout	vec00764
+vytrhnout	vec01162
+vytrhovat	vec00764
+vytrpět si	vec00740
+vytrubovat	vec01163
+vytrvávat	vec00975
+vytrácet se	vec00755
+vytvořit	vec00127
+vytvořit	vec00179
+vytvořit	vec00360
+vytvářet	vec00084
+vytvářet	vec00179
+vytyčit	vec00127
+vytáhnout	vec00648
+vytýkat	vec00620
+vytěsnit	vec00973
+vytěžit	vec00169
+vytříbit	vec00976
+vyučit	vec00531
+vyučovat	vec00531
+využít	vec00079
+využívat	vec00079
+vyvarovat se	vec00045
+vyvažovat	vec00356
+vyvinout	vec00360
+vyvinout se	vec00510
+vyvinout se	vec01132
+vyvlastnit	vec00569
+vyvodit	vec00032
+vyvolat	vec00196
+vyvolávat	vec00196
+vyvracet	vec00765
+vyvrcholit	vec00977
+vyvrátit	vec00765
+vyvstat	vec00978
+vyvstávat	vec00978
+vyvážet	vec00566
+vyvážit	vec00356
+vyvést	vec00172
+vyvézt	vec00566
+vyvíjet	vec00360
+vyvíjet se	vec00510
+vyvěrat	vec00258
+vyzdvihnout	vec00382
+vyzdvihovat	vec00382
+vyzkoušet	vec00058
+vyznít	vec00164
+vyzrát	vec00766
+vyzvat	vec00361
+vyzvednout	vec01164
+vyzývat	vec00361
+vyústit	vec00359
+vyčerpat	vec00147
+vyčinit	vec00958
+vyčistit	vec00552
+vyčkat	vec00003
+vyčkávat	vec00003
+vyčleňovat	vec00047
+vyčíslit	vec00322
+vyčíslovat	vec00322
+vyčíst	vec00620
+vyčítat	vec00620
+vyřadit	vec00555
+vyřešit	vec00301
+vyřizovat	vec00301
+vyřknout	vec01009
+vyřídit	vec00301
+vyšetřovat	vec00090
+vyškolit	vec00763
+vyškrtnout	vec00962
+vyšperkovat	vec00972
+vyšplhat	vec00109
+vyšplhat se	vec00109
+vyšplhat se	vec00218
+vyšroubovat	vec00298
+vyštěknout	vec01060
+vyšumět	vec01103
+vyšvihnout se	vec00109
+vyžadovat	vec00272
+vyžadovat si	vec00077
+vyžrat	vec00828
+vyžádat	vec00272
+vyžádat si	vec00077
+vzbudit	vec00196
+vzbuzovat	vec00196
+vzchopit se	vec00390
+vzdát	vec00942
+vzdát se	vec00739
+vzdávat	vec00942
+vzdávat se	vec00449
+vzdávat se	vec00739
+vzdělat	vec00531
+vzdělávat	vec00531
+vzejít	vec00258
+vzepřít se	vec00019
+vzkvétat	vec00510
+vzkřísit	vec00246
+vzniknout	vec00258
+vznášet	vec00568
+vznést	vec00568
+vzpamatovat se	vec00390
+vzpamatovávat se	vec00390
+vzpomenout	vec00364
+vzpomenout si	vec00364
+vzpomínat	vec00364
+vzpomínat si	vec00364
+vzpírat se	vec00019
+vzrůst	vec00109
+vzrůstat	vec00109
+vztahovat se	vec00328
+vztyčit se	vec00979
+vzít	vec00149
+vzít	vec00171
+vzít	vec00172
+vzít	vec00648
+vzít	vec00704
+vzít	vec01003
+vzít se	vec00071
+vzít si	vec01166
+vázat	vec01141
+vážit	vec00548
+vážit	vec01142
+vést	vec00080
+vést	vec00098
+vést	vec00302
+vést	vec00359
+vést	vec00549
+vést	vec01143
+vést se	vec00153
+vést si	vec00153
+vézt	vec00172
+vítat	vec01145
+vítězit	vec00352
+včlenit	vec00735
+vědět	vec00013
+věnovat	vec00497
+věnovat	vec00574
+věstit	vec00093
+věznit	vec00544
+věřit	vec00345
+vřít	vec00748
+vřítit se	vec00747
+všimnout si	vec00082
+všímat si	vec00574
+zabalit	vec00603
+zabavit	vec00569
+zabavovat	vec00569
+zabezpečit	vec00178
+zabezpečovat	vec00178
+zablokovat	vec00174
+zabrat	vec00530
+zabraňovat	vec00174
+zabraňovat	vec00367
+zabránit	vec00174
+zabránit	vec00367
+zabudovat	vec01167
+zabíjet	vec00365
+zabírat	vec00221
+zabít	vec00365
+zabývat se	vec00067
+zabřednout	vec01115
+zachovat	vec00176
+zachovat si	vec00176
+zachraňovat	vec00024
+zachránit	vec00024
+zachránit se	vec00024
+zachvět se	vec00937
+zachycovat	vec01169
+zachytit	vec00615
+zachytit	vec01169
+zaclonit	vec00024
+zacvičit si	vec00606
+zadat	vec00127
+zadat	vec00571
+zadržet	vec00185
+zadržovat	vec00813
+zadržovat	vec00981
+zadávat	vec00571
+zafungovat	vec00221
+zahajovat	vec00038
+zahajovat	vec00059
+zahajovat	vec00861
+zahalit	vec00769
+zahalovat	vec00769
+zahltit	vec00576
+zahlédnout	vec00154
+zahnat	vec00456
+zahodit	vec00380
+zahradit	vec00570
+zahrnout	vec00175
+zahrnout	vec00366
+zahrnovat	vec00175
+zahrnovat	vec00366
+zahrát	vec00611
+zahrát	vec00823
+zahynout	vec00383
+zahájit	vec00038
+zahájit	vec00861
+zajistit	vec00024
+zajistit	vec00178
+zajišťovat	vec00024
+zajišťovat	vec00511
+zajmout	vec00185
+zajímat	vec00185
+zajímat	vec00574
+zajímat se	vec00574
+zakazovat	vec00367
+zaklepat	vec01035
+zakládat	vec00179
+zakládat se	vec00258
+zakončit	vec00213
+zakoupit	vec00035
+zakousnout se	vec01039
+zakročit	vec00774
+zakročovat	vec00774
+zakrýt	vec00514
+zakusit	vec00379
+zakázat	vec00367
+zakřičet	vec00426
+zalidnit	vec00984
+založit	vec00179
+zalíbit se	vec00188
+zamezit	vec00174
+zamezit	vec00367
+zamezovat	vec00174
+zamezovat	vec00367
+zamlouvat se	vec00231
+zamlčet	vec00514
+zamlčovat	vec00514
+zamlžit	vec00770
+zamlžovat	vec00770
+zamořit	vec00372
+zamyslet se	vec00149
+zamávat	vec00631
+zamítat	vec00050
+zamítnout	vec00050
+zamířit	vec00434
+zamýšlet	vec00256
+zamýšlet	vec00771
+zaměstnat	vec00369
+zaměstnávat	vec00369
+zaměňovat	vec01170
+zaměřit	vec00859
+zaměřovat	vec00859
+zanechat	vec00291
+zanechat	vec00575
+zanechat	vec00942
+zanechávat	vec00198
+zanedbat	vec00460
+zanedbávat	vec00460
+zaniknout	vec00755
+zanést	vec00735
+zaostat	vec00370
+zaostávat	vec00370
+zapadnout	vec00218
+zapalovat	vec00986
+zaplatit	vec00125
+zaplavit	vec00576
+zaplavovat	vec00576
+zaplnit	vec00577
+zaplňovat	vec00577
+zaplňovat se	vec01171
+zapnout	vec00182
+zapojit	vec00175
+zapojit se	vec00067
+zapojit se	vec00239
+zapojovat se	vec00067
+zapomenout	vec00371
+zapomínat	vec00371
+započíst	vec00772
+započít	vec00038
+započítat	vec00772
+započítávat	vec00772
+zapsat se	vec00239
+zapálit	vec00986
+zapínat	vec00182
+zapříst	vec00038
+zapříčinit	vec00196
+zapříčiňovat	vec00196
+zapůsobit	vec00773
+zarazit	vec00735
+zareagovat	vec00102
+zaregistrovat	vec00507
+zarmoutit	vec00587
+zaručit	vec00511
+zaručovat	vec00511
+zasadit se	vec00069
+zasahovat	vec00372
+zasahovat	vec00774
+zasahovat	vec00775
+zasazovat	vec00812
+zasedat	vec00373
+zaslat	vec00209
+zaslechnout	vec00013
+zasloužit si	vec00988
+zasluhovat si	vec00988
+zastat	vec00373
+zastat se	vec00244
+zastavit	vec00198
+zastavit	vec00213
+zastavit	vec00579
+zastavit se	vec00042
+zastavit se	vec00113
+zastavit se	vec00579
+zastavovat	vec00198
+zastavovat	vec00579
+zastihnout	vec00374
+zastiňovat	vec00580
+zastoupit	vec00375
+zastrašit	vec00761
+zastrašovat	vec00761
+zastupovat	vec00375
+zastávat	vec00186
+zastávat	vec00373
+zastávat	vec00989
+zastávat se	vec00244
+zastínit	vec00580
+zastírat	vec00514
+zastřelit	vec00365
+zastřít	vec00514
+zasáhnout	vec00372
+zasáhnout	vec00774
+zasáhnout	vec00775
+zasílat	vec00209
+zasít	vec01111
+zatajovat	vec00514
+zatarasit	vec00570
+zatknout	vec00185
+zatleskat	vec00135
+zatočit	vec00923
+zatížit	vec00372
+zaujmout	vec00186
+zaujmout	vec00188
+zaujmout	vec00613
+zaujímat	vec00186
+zaujímat	vec00613
+zavalit	vec00576
+zavazovat	vec01013
+zavdávat	vec00208
+zavinit	vec00196
+zavolat	vec00581
+zavraždit	vec00365
+zavrhnout	vec00050
+zavrtět	vec00991
+završit	vec00213
+završovat	vec00213
+zavtipkovat	vec00750
+zavádět	vec01188
+zavánět	vec00990
+zavázat se	vec00311
+zavést	vec00812
+zavést	vec01188
+zavřít	vec00376
+zazlívat	vec00620
+zaznamenat	vec00082
+zaznamenat	vec00377
+zaznamenat	vec00507
+zaznamenávat	vec00082
+zaznamenávat	vec00377
+zaznamenávat	vec00507
+zazpívat	vec00794
+zazvonit	vec01196
+zaútočit	vec00441
+zaúčtovat	vec00778
+začlenit	vec00175
+začleňovat	vec00175
+začínat	vec00038
+začínat	vec00097
+začít	vec00038
+začít	vec00097
+zařadit	vec00175
+zařadit se	vec00865
+zařeknout se	vec00311
+zařizovat	vec00752
+zařvat	vec00426
+zařídit	vec00178
+zašklebit se	vec01043
+zaťukat	vec01035
+zažalovat	vec00347
+zažehnat	vec00456
+zažehnout	vec00038
+zažádat	vec00272
+zažít	vec00379
+zažívat	vec00379
+zbavit	vec00595
+zbavit se	vec00380
+zbavovat	vec00595
+zbavovat se	vec00380
+zbourat	vec00389
+zbrzdit	vec00486
+zbrzdit se	vec00793
+zbít	vec00992
+zbýt	vec00583
+zbýt	vec01176
+zbývat	vec00583
+zbývat	vec01176
+zchladit	vec00055
+zdanit	vec00780
+zdaňovat	vec00780
+zdařit se	vec00257
+zdiskreditovat	vec01192
+zdobit	vec00782
+zdokonalit	vec00386
+zdokonalovat	vec00386
+zdolat	vec00091
+zdražit	vec00298
+zdražovat	vec00298
+zdržet	vec00486
+zdržet se	vec00394
+zdržet se	vec00783
+zdržovat	vec00486
+zdvihnout	vec01194
+zdvojnásobit	vec00187
+zdvojnásobit se	vec00187
+zdvojnásobovat	vec00187
+zdát se	vec00381
+zdát se	vec00402
+zdědit	vec00584
+zděsit	vec00761
+zdůraznit	vec00382
+zdůrazňovat	vec00382
+zdůvodnit	vec00201
+zdůvodňovat	vec00201
+zemřít	vec00383
+zeptat se	vec00384
+zeslábnout	vec00463
+zesílit	vec00730
+zečtyřnásobit se	vec00187
+zeštíhlit	vec00788
+zformulovat	vec00784
+zhatit	vec00174
+zhlédnout	vec00154
+zhodnocovat	vec00159
+zhodnotit	vec00090
+zhoršit	vec00785
+zhoršit se	vec00786
+zhoršovat se	vec00786
+zhroutit se	vec00599
+zinscenovat	vec00502
+zjednodušit	vec00788
+zjednodušovat	vec00788
+zjistit	vec00013
+zjistit	vec00127
+zjišťovat	vec00013
+zjišťovat	vec00090
+zkazit	vec00789
+zkazit se	vec00790
+zklamat	vec00587
+zkonfiskovat	vec00569
+zkonstruovat	vec00084
+zkontrolovat	vec00090
+zkoumat	vec00090
+zkoušet	vec00058
+zkoušet	vec00117
+zkrachovat	vec00599
+zkracovat	vec00588
+zkreslit	vec00791
+zkreslovat	vec00791
+zkroutit se	vec00993
+zkrátit	vec00588
+zkusit	vec00058
+zkusit	vec00117
+zkvalitnit	vec00386
+zkvalitňovat	vec00386
+zlehčit	vec00801
+zlehčovat	vec00801
+zlepšit	vec00386
+zlepšovat	vec00386
+zlevnit	vec00118
+zlevňovat	vec00118
+zliberalizovat	vec00545
+zlikvidovat	vec00389
+zlákat	vec00286
+zmanipulovat	vec00254
+zmařit	vec00174
+zmenšit	vec00118
+zmenšit se	vec00028
+zmenšovat	vec00118
+zmenšovat se	vec00028
+zmizet	vec00755
+zmiňovat	vec00994
+zmiňovat se	vec00994
+zmobilizovat	vec00485
+zmodernizovat	vec00436
+zmonopolizovat	vec01042
+zmást	vec00589
+zmínit	vec00994
+zmínit se	vec00994
+zmírnit	vec00055
+zmírnit se	vec00793
+zmírňovat se	vec00793
+zmýlit se	vec00839
+změnit	vec00095
+změnit	vec00590
+změnit se	vec01132
+změřit	vec00431
+znamenat	vec00194
+značit	vec00141
+znechucovat	vec01183
+znechutit	vec01183
+znemožnit	vec00174
+znepokojovat se	vec00243
+znepřátelit si	vec00996
+zneužít	vec00591
+zneužívat	vec00591
+znečišťovat	vec01182
+zničit	vec00389
+znárodnit	vec01178
+znárodňovat	vec01178
+znásilnit	vec01180
+znásilňovat	vec01180
+znásobit	vec00298
+znásobit se	vec01181
+znásobovat se	vec01181
+znát	vec00013
+znát	vec00195
+znít	vec00164
+znít	vec00592
+zobecňovat	vec01184
+zobrazit	vec00141
+zobrazovat	vec00141
+zodpovídat se	vec01185
+zopakovat	vec00458
+zorganizovat	vec00502
+zosnovat	vec00502
+zostřit se	vec00730
+zotavovat se	vec00390
+zpanikařit	vec00864
+zpevnit	vec00997
+zpochybnit	vec00391
+zpochybňovat	vec00391
+zpomalit	vec00392
+zpomalit	vec00463
+zpomalit se	vec00463
+zpomalit se	vec00793
+zpomalovat	vec00392
+zpomalovat	vec00463
+zpomalovat se	vec00463
+zpozdit	vec00486
+zpozorovat	vec00082
+zpracovat	vec00900
+zprivatizovat	vec00683
+zpronevěřit	vec01187
+zprostit	vec00595
+zpívat	vec00794
+způsobit	vec00196
+způsobovat	vec00196
+zranit	vec00372
+zrcadlit	vec00141
+zrealizovat	vec01188
+zredukovat	vec00118
+zrekonstruovat	vec01189
+zrenovovat	vec00436
+zrodit se	vec00197
+zruinovat	vec00389
+zrušit	vec00198
+zrychlit	vec00337
+zrychlit se	vec00730
+zrychlovat	vec00337
+zrychlovat	vec01190
+zrychlovat se	vec00730
+ztenčit se	vec00028
+ztenčovat se	vec00028
+ztišit se	vec00733
+ztlumit	vec00055
+ztotožnit se	vec00120
+ztotožňovat se	vec00120
+ztotožňovat se	vec01191
+ztratit	vec00275
+ztratit	vec00393
+ztratit	vec01193
+ztrojnásobit	vec00187
+ztrojnásobit se	vec00187
+ztroskotat	vec00599
+ztroskotávat	vec00599
+ztrácet	vec00393
+ztrácet	vec01193
+ztělesňovat	vec00796
+zužovat se	vec00028
+zvažovat	vec00149
+zvedat	vec00298
+zvedat	vec01194
+zvednout	vec00298
+zvednout	vec01194
+zvednout se	vec00730
+zveličovat	vec00634
+zveřejnit	vec00060
+zveřejňovat	vec00060
+zvládat	vec00212
+zvládnout	vec00212
+zvládnout	vec00970
+zvolat	vec00426
+zvolit	vec00106
+zvolit	vec00228
+zvonit	vec01196
+zvrátit	vec01197
+zvyšovat	vec00298
+zvyšovat se	vec00109
+zvát	vec00487
+zvážit	vec00149
+zvítězit	vec00352
+zvýhodnit	vec00069
+zvýhodňovat	vec00069
+zvýrazňovat	vec00382
+zvýšit	vec00109
+zvýšit	vec00298
+zvýšit se	vec00109
+zvěstovat	vec00060
+zvětšit	vec00298
+zvětšit se	vec00109
+zvětšovat	vec00298
+zvětšovat se	vec00109
+záležet	vec00180
+zápasit	vec00301
+záviset	vec00180
+zářit	vec01173
+získat	vec00013
+získat	vec00188
+získat	vec00189
+získat	vec00191
+získat	vec00586
+získávat	vec00188
+získávat	vec00189
+získávat	vec00586
+zúčastnit se	vec00067
+zúčastňovat se	vec00067
+zúžit	vec00118
+zčtyřnásobit se	vec00187
+zřeknout se	vec00942
+zřizovat	vec00179
+zříci se	vec00942
+zřídit	vec00084
+zřídit	vec00179
+zříkat se	vec00942
+zřítit se	vec00028
+zřítit se	vec00597
+zůstat	vec00199
+zůstat	vec00394
+zůstat	vec00583
+zůstat	vec01176
+zůstávat	vec00199
+zůstávat	vec00394
+útočit	vec00441
+účastnit se	vec00067
+účinkovat	vec00611
+účtovat	vec00532
+účtovat si	vec00532
+čekat	vec00002
+čekat	vec00003
+čelit	vec00205
+čerpat	vec00189
+činit	vec00089
+činit	vec00206
+činit	vec00404
+čistit	vec00552
+číst	vec00207
+číst	vec00690
+číst	vec01010
+čítat	vec00206
+řadit	vec00916
+řešit	vec00301
+řvát	vec00426
+říci	vec00060
+řídit	vec00302
+řídit	vec01037
+řídit se	vec00303
+říkat	vec00043
+říkat	vec00060
+říkávat	vec00043
+říkávat	vec00060
+řítit se	vec00747
+šeptat	vec00060
+škodit	vec00372
+školit	vec00763
+škrtat	vec00962
+škrtnout	vec00962
+šokovat	vec00094
+šplhat se	vec00109
+štěpit	vec00296
+šálit	vec00860
+šéfovat	vec00302
+šířit	vec00912
+šířit se	vec00510
+žalovat	vec00347
+žebrat	vec01200
+žertovat	vec00750
+živit	vec00624
+žvýkat	vec00800
+žádat	vec00272
+žít	vec00400
+žít si	vec00400

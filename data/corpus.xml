@@ -1,0 +1,761 @@
+<?xml version='1.0' encoding='utf-8'?>
+<sentences>
+  <sentence id="4">
+    <text>정보 관리들은 동남 아시아에서의 선박들에 대한 많은 (테러) 계획들이 실패로 돌아갔음을 밝혔으며, 세계 해상 교역량의 거의 3분의 1을 운송하는 좁은 해로인 말라카 해협이 테러 공격을 당하기 쉽다고 경고하고 있다.</text>
+    <source>Intelligence officials have revealed a spate of foiled plots on ships in Southeast Asia and are warning that a narrow stretch of water carrying almost one third of the world's maritime trade is vulnerable to a terror attack.</source>
+    <verbs>
+      <verb class="vec00619" lemma="대하다">
+        <mark>정보 관리들은 동남 아시아에서의 선박들에 ^ 대한 많은 (테러) 계획들이 실패로 돌아갔음을 밝혔으며, 세계 해상 교역량의 거의 3분의 1을 운송하는 좁은 해로인 말라카 해협이 테러 공격을 당하기 쉽다고 경고하고 있다.</mark>
+        <alignment to="adp">Intelligence officials have revealed a spate of foiled plots ^ on ships in Southeast Asia and are warning that a narrow stretch of water carrying almost one third of the world's maritime trade is vulnerable to a terror attack.</alignment>
+      </verb>
+      <verb class="vec00309" lemma="돌아가다">
+        <mark>정보 관리들은 동남 아시아에서의 선박들에 대한 많은 (테러) 계획들이 실패로 ^ 돌아갔음을 밝혔으며, 세계 해상 교역량의 거의 3분의 1을 운송하는 좁은 해로인 말라카 해협이 테러 공격을 당하기 쉽다고 경고하고 있다.</mark>
+        <alignment to="verb-diff">Intelligence officials have revealed a spate of ^ foiled plots on ships in Southeast Asia and are warning that a narrow stretch of water carrying almost one third of the world's maritime trade is vulnerable to a terror attack.</alignment>
+      </verb>
+      <verb class="vec01169" lemma="밝히다">
+        <mark>정보 관리들은 동남 아시아에서의 선박들에 대한 많은 (테러) 계획들이 실패로 돌아갔음을 ^ 밝혔으며, 세계 해상 교역량의 거의 3분의 1을 운송하는 좁은 해로인 말라카 해협이 테러 공격을 당하기 쉽다고 경고하고 있다.</mark>
+        <alignment to="verb">Intelligence officials have ^ revealed a spate of foiled plots on ships in Southeast Asia and are warning that a narrow stretch of water carrying almost one third of the world's maritime trade is vulnerable to a terror attack.</alignment>
+      </verb>
+      <verb class="vec00011" lemma="운송하다">
+        <mark>정보 관리들은 동남 아시아에서의 선박들에 대한 많은 (테러) 계획들이 실패로 돌아갔음을 밝혔으며, 세계 해상 교역량의 거의 3분의 1을 ^ 운송하는 좁은 해로인 말라카 해협이 테러 공격을 당하기 쉽다고 경고하고 있다.</mark>
+        <alignment to="verb">Intelligence officials have revealed a spate of foiled plots on ships in Southeast Asia and are warning that a narrow stretch of water ^ carrying almost one third of the world's maritime trade is vulnerable to a terror attack.</alignment>
+      </verb>
+      <verb class="vec00340" lemma="당하다">
+        <mark>정보 관리들은 동남 아시아에서의 선박들에 대한 많은 (테러) 계획들이 실패로 돌아갔음을 밝혔으며, 세계 해상 교역량의 거의 3분의 1을 운송하는 좁은 해로인 말라카 해협이 테러 공격을 ^ 당하기 쉽다고 경고하고 있다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00344" lemma="경고하다">
+        <mark>정보 관리들은 동남 아시아에서의 선박들에 대한 많은 (테러) 계획들이 실패로 돌아갔음을 밝혔으며, 세계 해상 교역량의 거의 3분의 1을 운송하는 좁은 해로인 말라카 해협이 테러 공격을 당하기 쉽다고 ^ 경고하고 있다.</mark>
+        <alignment to="verb">Intelligence officials have revealed a spate of foiled plots on ships in Southeast Asia and are ^ warning that a narrow stretch of water carrying almost one third of the world's maritime trade is vulnerable to a terror attack.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="5">
+    <text>이 지역에 있는 미국 선박과 상업용 선박들에 대한 알카에다의 (테러) 시도 중 여러 건이 실패했다는 것을 알게 된 후에, 전문가들은 테러 조직이 여전히 세계 경제에 타격을 입히려 한다고 경고하고 있으며, 동남 아시아에 있는 세계 경제의 주요 통로가 위험에 처해 있다고 그들은 생각하고 있다.</text>
+    <source>After learning of several foiled al Qaeda attempts on U.S. and commercial ships in the area, experts are warning that the terror network still wants to cripple the global economy, the world's economic jugular vein in Southeast Asia is at risk.</source>
+    <verbs>
+      <verb class="vec00599" lemma="실패하다">
+        <mark>이 지역에 있는 미국 선박과 상업용 선박들에 대한 알카에다의 (테러) 시도 중 여러 건이 ^ 실패했다는 것을 알게 된 후에, 전문가들은 테러 조직이 여전히 세계 경제에 타격을 입히려 한다고 경고하고 있으며, 동남 아시아에 있는 세계 경제의 주요 통로가 위험에 처해 있다고 그들은 생각하고 있다.</mark>
+        <alignment to="verb">After learning of several ^ foiled al Qaeda attempts on U.S. and commercial ships in the area, experts are warning that the terror network still wants to cripple the global economy, the world's economic jugular vein in Southeast Asia is at risk.</alignment>
+      </verb>
+      <verb class="vec00013" lemma="알다">
+        <mark>이 지역에 있는 미국 선박과 상업용 선박들에 대한 알카에다의 (테러) 시도 중 여러 건이 실패했다는 것을 ^ 알게 된 후에, 전문가들은 테러 조직이 여전히 세계 경제에 타격을 입히려 한다고 경고하고 있으며, 동남 아시아에 있는 세계 경제의 주요 통로가 위험에 처해 있다고 그들은 생각하고 있다.</mark>
+        <alignment to="verb">After ^ learning of several foiled al Qaeda attempts on U.S. and commercial ships in the area, experts are warning that the terror network still wants to cripple the global economy, the world's economic jugular vein in Southeast Asia is at risk.</alignment>
+      </verb>
+      <verb class="vec00196" lemma="입히다">
+        <mark>이 지역에 있는 미국 선박과 상업용 선박들에 대한 알카에다의 (테러) 시도 중 여러 건이 실패했다는 것을 알게 된 후에, 전문가들은 테러 조직이 여전히 세계 경제에 타격을 ^ 입히려 한다고 경고하고 있으며, 동남 아시아에 있는 세계 경제의 주요 통로가 위험에 처해 있다고 그들은 생각하고 있다.</mark>
+        <alignment to="verb-diff">After learning of several foiled al Qaeda attempts on U.S. and commercial ships in the area, experts are warning that the terror network still wants to ^ cripple the global economy, the world's economic jugular vein in Southeast Asia is at risk.</alignment>
+      </verb>
+      <verb class="vec00344" lemma="경고하다">
+        <mark>이 지역에 있는 미국 선박과 상업용 선박들에 대한 알카에다의 (테러) 시도 중 여러 건이 실패했다는 것을 알게 된 후에, 전문가들은 테러 조직이 여전히 세계 경제에 타격을 입히려 한다고 ^ 경고하고 있으며, 동남 아시아에 있는 세계 경제의 주요 통로가 위험에 처해 있다고 그들은 생각하고 있다.</mark>
+        <alignment to="verb">After learning of several foiled al Qaeda attempts on U.S. and commercial ships in the area, experts are ^ warning that the terror network still wants to cripple the global economy, the world's economic jugular vein in Southeast Asia is at risk.</alignment>
+      </verb>
+      <verb class="vec00564" lemma="처하다">
+        <mark>이 지역에 있는 미국 선박과 상업용 선박들에 대한 알카에다의 (테러) 시도 중 여러 건이 실패했다는 것을 알게 된 후에, 전문가들은 테러 조직이 여전히 세계 경제에 타격을 입히려 한다고 경고하고 있으며, 동남 아시아에 있는 세계 경제의 주요 통로가 위험에 ^ 처해 있다고 그들은 생각하고 있다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00032" lemma="생각하다">
+        <mark>이 지역에 있는 미국 선박과 상업용 선박들에 대한 알카에다의 (테러) 시도 중 여러 건이 실패했다는 것을 알게 된 후에, 전문가들은 테러 조직이 여전히 세계 경제에 타격을 입히려 한다고 경고하고 있으며, 동남 아시아에 있는 세계 경제의 주요 통로가 위험에 처해 있다고 그들은 ^ 생각하고 있다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="6">
+    <text>국립 과학 학회가 발표한 새 보고서에따르면, 복잡한 임무를 수행해야 하는 군인들이나 보다 오랜 시간 동안 경계를 늦추지 않고 있기 위해 도움이 필요한 군인들에게 카페인이 반응 시간을 증가시키고 임무 수행 능력을 향상시키는데 도움이 된다고 한다.</text>
+    <source>Caffeine can help increase reaction time and improve performance for military servicemen who must perform complex tasks or who need help staying alert for longer periods of time, according to a new report by the National Academy of Sciences.</source>
+    <verbs>
+      <verb class="vec00351" lemma="발표하다">
+        <mark>국립 과학 학회가 ^ 발표한 새 보고서에따르면, 복잡한 임무를 수행해야 하는 군인들이나 보다 오랜 시간 동안 경계를 늦추지 않고 있기 위해 도움이 필요한 군인들에게 카페인이 반응 시간을 증가시키고 임무 수행 능력을 향상시키는데 도움이 된다고 한다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec01188" lemma="수행하다">
+        <mark>국립 과학 학회가 발표한 새 보고서에따르면, 복잡한 임무를 ^ 수행해야 하는 군인들이나 보다 오랜 시간 동안 경계를 늦추지 않고 있기 위해 도움이 필요한 군인들에게 카페인이 반응 시간을 증가시키고 임무 수행 능력을 향상시키는데 도움이 된다고 한다.</mark>
+        <alignment to="verb">Caffeine can help increase reaction time and improve performance for military servicemen who must ^ perform complex tasks or who need help staying alert for longer periods of time, according to a new report by the National Academy of Sciences.</alignment>
+      </verb>
+      <verb class="vec00257" lemma="늦추다">
+        <mark>국립 과학 학회가 발표한 새 보고서에따르면, 복잡한 임무를 수행해야 하는 군인들이나 보다 오랜 시간 동안 경계를 ^ 늦추지 않고 있기 위해 도움이 필요한 군인들에게 카페인이 반응 시간을 증가시키고 임무 수행 능력을 향상시키는데 도움이 된다고 한다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00270" lemma="필요하다">
+        <mark>국립 과학 학회가 발표한 새 보고서에따르면, 복잡한 임무를 수행해야 하는 군인들이나 보다 오랜 시간 동안 경계를 늦추지 않고 있기 위해 도움이 ^ 필요한 군인들에게 카페인이 반응 시간을 증가시키고 임무 수행 능력을 향상시키는데 도움이 된다고 한다.</mark>
+        <alignment to="verb">Caffeine can help increase reaction time and improve performance for military servicemen who must perform complex tasks or who ^ need help staying alert for longer periods of time, according to a new report by the National Academy of Sciences.</alignment>
+      </verb>
+      <verb class="vec00976" lemma="증가하다">
+        <mark>국립 과학 학회가 발표한 새 보고서에따르면, 복잡한 임무를 수행해야 하는 군인들이나 보다 오랜 시간 동안 경계를 늦추지 않고 있기 위해 도움이 필요한 군인들에게 카페인이 반응 시간을 ^ 증가시키고 임무 수행 능력을 향상시키는데 도움이 된다고 한다.</mark>
+        <alignment to="verb">Caffeine can help ^ increase reaction time and improve performance for military servicemen who must perform complex tasks or who need help staying alert for longer periods of time, according to a new report by the National Academy of Sciences.</alignment>
+      </verb>
+      <verb class="vec00976" lemma="향상하다">
+        <mark>국립 과학 학회가 발표한 새 보고서에따르면, 복잡한 임무를 수행해야 하는 군인들이나 보다 오랜 시간 동안 경계를 늦추지 않고 있기 위해 도움이 필요한 군인들에게 카페인이 반응 시간을 증가시키고 임무 수행 능력을 ^ 향상시키는데 도움이 된다고 한다.</mark>
+        <alignment to="verb">Caffeine can help increase reaction time and ^ improve performance for military servicemen who must perform complex tasks or who need help staying alert for longer periods of time, according to a new report by the National Academy of Sciences.</alignment>
+      </verb>
+      <verb class="vec00060" lemma="하다">
+        <mark>국립 과학 학회가 발표한 새 보고서에따르면, 복잡한 임무를 수행해야 하는 군인들이나 보다 오랜 시간 동안 경계를 늦추지 않고 있기 위해 도움이 필요한 군인들에게 카페인이 반응 시간을 증가시키고 임무 수행 능력을 향상시키는데 도움이 된다고 ^ 한다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="7">
+    <text>이 보고서에따르면, "특히, 군사 작전에서 생사가 걸린 상황이 될 수도 있는 반응 속도와 시각 및 청각의 경계 상태를 유지시키기 위해 카페인이 사용될 수도 있다." 고 한다.</text>
+    <source>"Specifically, it can be used in maintaining speed of reactions and visual and auditory vigilance, which in military operations could be a life or death situation," according to the report.</source>
+    <verbs>
+      <verb class="vec00740" lemma="걸리다">
+        <mark>이 보고서에따르면, "특히, 군사 작전에서 생사가 ^ 걸린 상황이 될 수도 있는 반응 속도와 시각 및 청각의 경계 상태를 유지시키기 위해 카페인이 사용될 수도 있다." 고 한다.</mark>
+        <alignment to="verb-diff">"Specifically, it can be used in maintaining speed of reactions and visual and auditory vigilance, which in military operations could ^ be a life or death situation," according to the report.</alignment>
+      </verb>
+      <verb class="vec00097" lemma="되다">
+        <mark>이 보고서에따르면, "특히, 군사 작전에서 생사가 걸린 상황이 ^ 될 수도 있는 반응 속도와 시각 및 청각의 경계 상태를 유지시키기 위해 카페인이 사용될 수도 있다." 고 한다.</mark>
+        <alignment to="verb">"Specifically, it can be used in maintaining speed of reactions and visual and auditory vigilance, which in military operations could ^ be a life or death situation," according to the report.</alignment>
+      </verb>
+      <verb class="vec00176" lemma="유지하다">
+        <mark>이 보고서에따르면, "특히, 군사 작전에서 생사가 걸린 상황이 될 수도 있는 반응 속도와 시각 및 청각의 경계 상태를 ^ 유지시키기 위해 카페인이 사용될 수도 있다." 고 한다.</mark>
+        <alignment to="verb">"Specifically, it can be used in ^ maintaining speed of reactions and visual and auditory vigilance, which in military operations could be a life or death situation," according to the report.</alignment>
+      </verb>
+      <verb class="vec00079" lemma="사용하다">
+        <mark>이 보고서에따르면, "특히, 군사 작전에서 생사가 걸린 상황이 될 수도 있는 반응 속도와 시각 및 청각의 경계 상태를 유지시키기 위해 카페인이 ^ 사용될 수도 있다." 고 한다.</mark>
+        <alignment to="verb">"Specifically, it can be ^ used in maintaining speed of reactions and visual and auditory vigilance, which in military operations could be a life or death situation," according to the report.</alignment>
+      </verb>
+      <verb class="vec00060" lemma="하다">
+        <mark>이 보고서에따르면, "특히, 군사 작전에서 생사가 걸린 상황이 될 수도 있는 반응 속도와 시각 및 청각의 경계 상태를 유지시키기 위해 카페인이 사용될 수도 있다." 고 ^ 한다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="8">
+    <text>"결정적인 순간에 그들의 능력을 증가시켜 줄 그 무엇이 매우 중요합니다."</text>
+    <source>"Something that will boost their capabilities at crucial moments is very important."</source>
+    <verbs>
+      <verb class="vec00976" lemma="증가하다">
+        <mark>"결정적인 순간에 그들의 능력을 ^ 증가시켜 줄 그 무엇이 매우 중요합니다."</mark>
+        <alignment to="verb">"Something that will ^ boost their capabilities at crucial moments is very important."</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="9">
+    <text>연구가들이 이미 커피 대체품으로서 음식 대용 과자나 껌에 카페인을 첨가하는 방법을 연구하고 있다고 Archibald는 말했다.</text>
+    <source>Researchers are already exploring ways to put caffeine in nutrition bars or chewing gum as alternatives to coffee, Archibald said.</source>
+    <verbs>
+      <verb class="vec00407" lemma="첨가하다">
+        <mark>연구가들이 이미 커피 대체품으로서 음식 대용 과자나 껌에 카페인을 ^ 첨가하는 방법을 연구하고 있다고 Archibald는 말했다.</mark>
+        <alignment to="verb">Researchers are already exploring ways to ^ put caffeine in nutrition bars or chewing gum as alternatives to coffee, Archibald said.</alignment>
+      </verb>
+      <verb class="vec00090" lemma="연구하다">
+        <mark>연구가들이 이미 커피 대체품으로서 음식 대용 과자나 껌에 카페인을 첨가하는 방법을 ^ 연구하고 있다고 Archibald는 말했다.</mark>
+        <alignment to="verb">Researchers are already ^ exploring ways to put caffeine in nutrition bars or chewing gum as alternatives to coffee, Archibald said.</alignment>
+      </verb>
+      <verb class="vec00060" lemma="말하다">
+        <mark>연구가들이 이미 커피 대체품으로서 음식 대용 과자나 껌에 카페인을 첨가하는 방법을 연구하고 있다고 Archibald는 ^ 말했다.</mark>
+        <alignment to="verb">Researchers are already exploring ways to put caffeine in nutrition bars or chewing gum as alternatives to coffee, Archibald ^ said.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="10">
+    <text>약 200600밀리그램의, 비슷한 분량의 카페인은 또한 육체적 지구력을 강화시키는 데 효과적인 것 같으며, 특히 고도가 높은 곳에서 약해진 육체적 지구력을 일부 회복시켜주는 데 유용하다는 것이 이번 연구에서 밝혀졌다.</text>
+    <source>A similar dose of caffeine, about 200-600 mg, also appears effective in enhancing physical endurance and may be especially useful in returning some of the physical endurance lost at high altitude, the study found.</source>
+    <verbs>
+      <verb class="vec00976" lemma="강화하다">
+        <mark>약 200600밀리그램의, 비슷한 분량의 카페인은 또한 육체적 지구력을 ^ 강화시키는 데 효과적인 것 같으며, 특히 고도가 높은 곳에서 약해진 육체적 지구력을 일부 회복시켜주는 데 유용하다는 것이 이번 연구에서 밝혀졌다.</mark>
+        <alignment to="verb">A similar dose of caffeine, about 200-600 mg, also appears effective in ^ enhancing physical endurance and may be especially useful in returning some of the physical endurance lost at high altitude, the study found.</alignment>
+      </verb>
+      <verb class="vec00463" lemma="약해지다">
+        <mark>약 200600밀리그램의, 비슷한 분량의 카페인은 또한 육체적 지구력을 강화시키는 데 효과적인 것 같으며, 특히 고도가 높은 곳에서 ^ 약해진 육체적 지구력을 일부 회복시켜주는 데 유용하다는 것이 이번 연구에서 밝혀졌다.</mark>
+        <alignment to="verb">A similar dose of caffeine, about 200-600 mg, also appears effective in enhancing physical endurance and may be especially useful in returning some of the physical endurance ^ lost at high altitude, the study found.</alignment>
+      </verb>
+      <verb class="vec00744" lemma="회복하다">
+        <mark>약 200600밀리그램의, 비슷한 분량의 카페인은 또한 육체적 지구력을 강화시키는 데 효과적인 것 같으며, 특히 고도가 높은 곳에서 약해진 육체적 지구력을 일부 ^ 회복시켜주는 데 유용하다는 것이 이번 연구에서 밝혀졌다.</mark>
+        <alignment to="verb">A similar dose of caffeine, about 200-600 mg, also appears effective in enhancing physical endurance and may be especially useful in ^ returning some of the physical endurance lost at high altitude, the study found.</alignment>
+      </verb>
+      <verb class="vec01169" lemma="밝히다">
+        <mark>약 200600밀리그램의, 비슷한 분량의 카페인은 또한 육체적 지구력을 강화시키는 데 효과적인 것 같으며, 특히 고도가 높은 곳에서 약해진 육체적 지구력을 일부 회복시켜주는 데 유용하다는 것이 이번 연구에서 ^ 밝혀졌다.</mark>
+        <alignment to="verb">A similar dose of caffeine, about 200-600 mg, also appears effective in enhancing physical endurance and may be especially useful in returning some of the physical endurance lost at high altitude, the study ^ found.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="11">
+    <text>의약 연구소는 정부에 과학 문제에 관해 자문하기 위해 의회가 설립 인가를 내어 준 민간 단체인 국립 과학 학회의 부속 단체이다.</text>
+    <source>The Institute of Medicine is part of the National Academy of Sciences, a private organization chartered by Congress to advise the government on scientific matters.</source>
+    <verbs>
+      <verb class="vec00328" lemma="관하다">
+        <mark>의약 연구소는 정부에 과학 문제에 ^ 관해 자문하기 위해 의회가 설립 인가를 내어 준 민간 단체인 국립 과학 학회의 부속 단체이다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00215" lemma="자문하다">
+        <mark>의약 연구소는 정부에 과학 문제에 관해 ^ 자문하기 위해 의회가 설립 인가를 내어 준 민간 단체인 국립 과학 학회의 부속 단체이다.</mark>
+        <alignment to="verb">The Institute of Medicine is part of the National Academy of Sciences, a private organization chartered by Congress to ^ advise the government on scientific matters.</alignment>
+      </verb>
+      <verb class="vec00351" lemma="내다">
+        <mark>의약 연구소는 정부에 과학 문제에 관해 자문하기 위해 의회가 설립 인가를 ^ 내어 준 민간 단체인 국립 과학 학회의 부속 단체이다.</mark>
+        <alignment to="verb">The Institute of Medicine is part of the National Academy of Sciences, a private organization ^ chartered by Congress to advise the government on scientific matters.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="13">
+    <text>그러나 침체되고 있는 미국 경제와 국내 수요의 약세 전망이 향후 수개월 동안의 낙관론을 어둡게 했다.</text>
+    <source>But the prospect of a slowing U.S. economy and weak demand at home overshadowed any optimism for the months ahead.</source>
+    <verbs>
+      <verb class="vec00199" lemma="침체하다">
+        <mark>그러나 ^ 침체되고 있는 미국 경제와 국내 수요의 약세 전망이 향후 수개월 동안의 낙관론을 어둡게 했다.</mark>
+        <alignment to="verb">But the prospect of a ^ slowing U.S. economy and weak demand at home overshadowed any optimism for the months ahead.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="14">
+    <text>특수 부대가 극장 건물로 공격해 들어가면서, 러시아인이 아닌 75명의 외국인과 25명의 어린이 전부를 포함해 750명 이상의 인질들이 구출되었다.</text>
+    <source>More than 750 hostages were rescued, including all 75 non-Russians and 25 children, when special forces stormed the building.</source>
+    <verbs>
+      <verb class="vec00751" lemma="공격하다">
+        <mark>특수 부대가 극장 건물로 ^ 공격해 들어가면서, 러시아인이 아닌 75명의 외국인과 25명의 어린이 전부를 포함해 750명 이상의 인질들이 구출되었다.</mark>
+        <alignment to="verb">More than 750 hostages were rescued, including all 75 non-Russians and 25 children, when special forces ^ stormed the building.</alignment>
+      </verb>
+      <verb class="vec00865" lemma="포함하다">
+        <mark>특수 부대가 극장 건물로 공격해 들어가면서, 러시아인이 아닌 75명의 외국인과 25명의 어린이 전부를 ^ 포함해 750명 이상의 인질들이 구출되었다.</mark>
+        <alignment to="verb">More than 750 hostages were rescued, ^ including all 75 non-Russians and 25 children, when special forces stormed the building.</alignment>
+      </verb>
+      <verb class="vec00024" lemma="구출하다">
+        <mark>특수 부대가 극장 건물로 공격해 들어가면서, 러시아인이 아닌 75명의 외국인과 25명의 어린이 전부를 포함해 750명 이상의 인질들이 ^ 구출되었다.</mark>
+        <alignment to="verb">More than 750 hostages were ^ rescued, including all 75 non-Russians and 25 children, when special forces stormed the building.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="15">
+    <text>러시아 특수 부대는 극장으로 공격해 들어가기 전에 신경 독가스를 사용했다.</text>
+    <source>Russian special forces used a sedative gas before storming the theatre.</source>
+    <verbs>
+      <verb class="vec00751" lemma="공격하다">
+        <mark>러시아 특수 부대는 극장으로 ^ 공격해 들어가기 전에 신경 독가스를 사용했다.</mark>
+        <alignment to="verb">Russian special forces used a sedative gas before ^ storming the theatre.</alignment>
+      </verb>
+      <verb class="vec00079" lemma="사용하다">
+        <mark>러시아 특수 부대는 극장으로 공격해 들어가기 전에 신경 독가스를 ^ 사용했다.</mark>
+        <alignment to="verb">Russian special forces ^ used a sedative gas before storming the theatre.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="16">
+    <text>많은 인질들이 화학 가스의 영향으로 고통을 겪으며 병원으로 옮겨졌다.</text>
+    <source>Many captives were taken to hospital suffering from the effects of the chemical.</source>
+    <verbs>
+      <verb class="vec00340" lemma="겪다">
+        <mark>많은 인질들이 화학 가스의 영향으로 고통을 ^ 겪으며 병원으로 옮겨졌다.</mark>
+        <alignment to="verb">Many captives were taken to hospital ^ suffering from the effects of the chemical.</alignment>
+      </verb>
+      <verb class="vec00172" lemma="옮가다">
+        <mark>많은 인질들이 화학 가스의 영향으로 고통을 겪으며 병원으로 ^ 옮겨졌다.</mark>
+        <alignment to="verb">Many captives were ^ taken to hospital suffering from the effects of the chemical.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="19">
+    <text>수천명의 실바 지지자들이 상 파울로와 리오 데 자네이로의 거리에 모여 들어, 실바가 이끄는 당의 붉은 깃발을 흔들며 축하했다.</text>
+    <source>Thousands of Silva supporters gathered in the streets of Sao Paulo and Rio de Janeiro, waving his party's red flag in celebration.</source>
+    <verbs>
+      <verb class="vec00710" lemma="모이다">
+        <mark>수천명의 실바 지지자들이 상 파울로와 리오 데 자네이로의 거리에 ^ 모여 들어, 실바가 이끄는 당의 붉은 깃발을 흔들며 축하했다.</mark>
+        <alignment to="verb">Thousands of Silva supporters ^ gathered in the streets of Sao Paulo and Rio de Janeiro, waving his party's red flag in celebration.</alignment>
+      </verb>
+      <verb class="vec00302" lemma="이끌다">
+        <mark>수천명의 실바 지지자들이 상 파울로와 리오 데 자네이로의 거리에 모여 들어, 실바가 ^ 이끄는 당의 붉은 깃발을 흔들며 축하했다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00631" lemma="흔들다">
+        <mark>수천명의 실바 지지자들이 상 파울로와 리오 데 자네이로의 거리에 모여 들어, 실바가 이끄는 당의 붉은 깃발을 ^ 흔들며 축하했다.</mark>
+        <alignment to="verb">Thousands of Silva supporters gathered in the streets of Sao Paulo and Rio de Janeiro, ^ waving his party's red flag in celebration.</alignment>
+      </verb>
+      <verb class="vec00663" lemma="축하하다">
+        <mark>수천명의 실바 지지자들이 상 파울로와 리오 데 자네이로의 거리에 모여 들어, 실바가 이끄는 당의 붉은 깃발을 흔들며 ^ 축하했다.</mark>
+        <alignment to="verb">Thousands of Silva supporters gathered in the streets of Sao Paulo and Rio de Janeiro, waving his party's red flag in ^ celebration.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="20">
+    <text>북한의 핵무기 계획을 포기하도록 하려는 압력이 거세지고 있는 가운데, 일본과 북한의 외교관들이 외교 관계를 정상화하려는 회담을 재개했다.</text>
+    <source>Amid mounting pressure on North Korea to abandon its nuclear weapons program Japanese and North Korean diplomats have resumed talks on normalizing diplomatic relations.</source>
+    <verbs>
+      <verb class="vec00942" lemma="포기하다">
+        <mark>북한의 핵무기 계획을 ^ 포기하도록 하려는 압력이 거세지고 있는 가운데, 일본과 북한의 외교관들이 외교 관계를 정상화하려는 회담을 재개했다.</mark>
+        <alignment to="verb">Amid mounting pressure on North Korea to ^ abandon its nuclear weapons program Japanese and North Korean diplomats have resumed talks on normalizing diplomatic relations.</alignment>
+      </verb>
+      <verb class="vec00730" lemma="거세지다">
+        <mark>북한의 핵무기 계획을 포기하도록 하려는 압력이 ^ 거세지고 있는 가운데, 일본과 북한의 외교관들이 외교 관계를 정상화하려는 회담을 재개했다.</mark>
+        <alignment to="verb">Amid ^ mounting pressure on North Korea to abandon its nuclear weapons program Japanese and North Korean diplomats have resumed talks on normalizing diplomatic relations.</alignment>
+      </verb>
+      <verb class="vec00521" lemma="정상화하다">
+        <mark>북한의 핵무기 계획을 포기하도록 하려는 압력이 거세지고 있는 가운데, 일본과 북한의 외교관들이 외교 관계를 ^ 정상화하려는 회담을 재개했다.</mark>
+        <alignment to="verb">Amid mounting pressure on North Korea to abandon its nuclear weapons program Japanese and North Korean diplomats have resumed talks on ^ normalizing diplomatic relations.</alignment>
+      </verb>
+      <verb class="vec00246" lemma="재개하다">
+        <mark>북한의 핵무기 계획을 포기하도록 하려는 압력이 거세지고 있는 가운데, 일본과 북한의 외교관들이 외교 관계를 정상화하려는 회담을 ^ 재개했다.</mark>
+        <alignment to="verb">Amid mounting pressure on North Korea to abandon its nuclear weapons program Japanese and North Korean diplomats have ^ resumed talks on normalizing diplomatic relations.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="21">
+    <text>말레이시아의 수도 쿠알라 룸푸르에서 열리는 이틀간의 회담에서는 1970년대와 80년대에 있었던 일본 민간인들의 납치에 대한 보다 충분한 설명을 요청하는 것 뿐만아니라 북한의 (핵)폭탄 제조 노력에 대한 일본의 우려가 주로 논의될 것으로 예상되고 있다.</text>
+    <source>The two days of meetings in the Malaysian capital, Kuala Lumpur, are expected to be dominated by Japanese concerns over the North's bomb-making efforts, as well as calls for a fuller explanation over the kidnapping of Japanese civilians in the 1970s and 80s.</source>
+    <verbs>
+      <verb class="vec00097" lemma="열리다">
+        <mark>말레이시아의 수도 쿠알라 룸푸르에서 ^ 열리는 이틀간의 회담에서는 1970년대와 80년대에 있었던 일본 민간인들의 납치에 대한 보다 충분한 설명을 요청하는 것 뿐만아니라 북한의 (핵)폭탄 제조 노력에 대한 일본의 우려가 주로 논의될 것으로 예상되고 있다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00097" lemma="있다">
+        <mark>말레이시아의 수도 쿠알라 룸푸르에서 열리는 이틀간의 회담에서는 1970년대와 80년대에 ^ 있었던 일본 민간인들의 납치에 대한 보다 충분한 설명을 요청하는 것 뿐만아니라 북한의 (핵)폭탄 제조 노력에 대한 일본의 우려가 주로 논의될 것으로 예상되고 있다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00226" lemma="대하다">
+        <mark>말레이시아의 수도 쿠알라 룸푸르에서 열리는 이틀간의 회담에서는 1970년대와 80년대에 있었던 일본 민간인들의 납치에 ^ 대한 보다 충분한 설명을 요청하는 것 뿐만아니라 북한의 (핵)폭탄 제조 노력에 대한 일본의 우려가 주로 논의될 것으로 예상되고 있다.</mark>
+        <alignment to="adp">The two days of meetings in the Malaysian capital, Kuala Lumpur, are expected to be dominated by Japanese concerns over the North's bomb-making efforts, as well as calls for a fuller explanation ^ over the kidnapping of Japanese civilians in the 1970s and 80s.</alignment>
+      </verb>
+      <verb class="vec00272" lemma="요청하다">
+        <mark>말레이시아의 수도 쿠알라 룸푸르에서 열리는 이틀간의 회담에서는 1970년대와 80년대에 있었던 일본 민간인들의 납치에 대한 보다 충분한 설명을 ^ 요청하는 것 뿐만아니라 북한의 (핵)폭탄 제조 노력에 대한 일본의 우려가 주로 논의될 것으로 예상되고 있다.</mark>
+        <alignment to="verb">The two days of meetings in the Malaysian capital, Kuala Lumpur, are expected to be dominated by Japanese concerns over the North's bomb-making efforts, as well as ^ calls for a fuller explanation over the kidnapping of Japanese civilians in the 1970s and 80s.</alignment>
+      </verb>
+      <verb class="vec00226" lemma="대하다">
+        <mark>말레이시아의 수도 쿠알라 룸푸르에서 열리는 이틀간의 회담에서는 1970년대와 80년대에 있었던 일본 민간인들의 납치에 대한 보다 충분한 설명을 요청하는 것 뿐만아니라 북한의 (핵)폭탄 제조 노력에 ^ 대한 일본의 우려가 주로 논의될 것으로 예상되고 있다.</mark>
+        <alignment to="adp">The two days of meetings in the Malaysian capital, Kuala Lumpur, are expected to be dominated by Japanese concerns ^ over the North's bomb-making efforts, as well as calls for a fuller explanation over the kidnapping of Japanese civilians in the 1970s and 80s.</alignment>
+      </verb>
+      <verb class="vec00031" lemma="논의하다">
+        <mark>말레이시아의 수도 쿠알라 룸푸르에서 열리는 이틀간의 회담에서는 1970년대와 80년대에 있었던 일본 민간인들의 납치에 대한 보다 충분한 설명을 요청하는 것 뿐만아니라 북한의 (핵)폭탄 제조 노력에 대한 일본의 우려가 주로 ^ 논의될 것으로 예상되고 있다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00092" lemma="예상하다">
+        <mark>말레이시아의 수도 쿠알라 룸푸르에서 열리는 이틀간의 회담에서는 1970년대와 80년대에 있었던 일본 민간인들의 납치에 대한 보다 충분한 설명을 요청하는 것 뿐만아니라 북한의 (핵)폭탄 제조 노력에 대한 일본의 우려가 주로 논의될 것으로 ^ 예상되고 있다.</mark>
+        <alignment to="verb">The two days of meetings in the Malaysian capital, Kuala Lumpur, are ^ expected to be dominated by Japanese concerns over the North's bomb-making efforts, as well as calls for a fuller explanation over the kidnapping of Japanese civilians in the 1970s and 80s.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="24">
+    <text>최초 보도에 의하면 그 화재는 건물 2층의 Blue Disco에서 누전에 의해 발화되었을 것이라고 했다.</text>
+    <source>Initial reports indicated it may have been sparked by a short-circuit in the Blue Disco on the building's second floor.</source>
+    <verbs>
+      <verb class="vec00359" lemma="의하다">
+        <mark>최초 보도에 의하면 그 화재는 건물 2층의 Blue Disco에서 누전에 ^ 의해 발화되었을 것이라고 했다.</mark>
+        <alignment to="verb">Initial reports indicated it may have been ^ sparked by a short-circuit in the Blue Disco on the building's second floor.</alignment>
+      </verb>
+      <verb class="vec00359" lemma="발화하다">
+        <mark>최초 보도에 의하면 그 화재는 건물 2층의 Blue Disco에서 누전에 의해 ^ 발화되었을 것이라고 했다.</mark>
+        <alignment to="verb">Initial reports indicated it may have been ^ sparked by a short-circuit in the Blue Disco on the building's second floor.</alignment>
+      </verb>
+      <verb class="vec00060" lemma="하다">
+        <mark>최초 보도에 의하면 그 화재는 건물 2층의 Blue Disco에서 누전에 의해 발화되었을 것이라고 ^ 했다.</mark>
+        <alignment to="verb">Initial reports ^ indicated it may have been sparked by a short-circuit in the Blue Disco on the building's second floor.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="26">
+    <text>이동할 수 있는 폭탄 제거 로보트가 이미 폭발물이나 위험 물질이 있는 것으로 의심되는 자동차, 건물, 또는 우편물을 검사할 수 있다고, 유엔의 유럽 경제 위원회 소속 전문가인 Jan Karlsson이 전하고 있다.</text>
+    <source>Mobile bomb-fighting robots can already inspect suspicious cars, buildings or mail for explosives or hazardous materials, according to Jan Karlsson, an expert at the U.N.</source>
+    <verbs>
+      <verb class="vec00022" lemma="이동하다">
+        <mark>^ 이동할 수 있는 폭탄 제거 로보트가 이미 폭발물이나 위험 물질이 있는 것으로 의심되는 자동차, 건물, 또는 우편물을 검사할 수 있다고, 유엔의 유럽 경제 위원회 소속 전문가인 Jan Karlsson이 전하고 있다.</mark>
+        <alignment to="adj">^ Mobile bomb-fighting robots can already inspect suspicious cars, buildings or mail for explosives or hazardous materials, according to Jan Karlsson, an expert at the U.N.</alignment>
+      </verb>
+      <verb class="vec00032" lemma="의심하다">
+        <mark>이동할 수 있는 폭탄 제거 로보트가 이미 폭발물이나 위험 물질이 있는 것으로 ^ 의심되는 자동차, 건물, 또는 우편물을 검사할 수 있다고, 유엔의 유럽 경제 위원회 소속 전문가인 Jan Karlsson이 전하고 있다.</mark>
+        <alignment to="adj">Mobile bomb-fighting robots can already inspect ^ suspicious cars, buildings or mail for explosives or hazardous materials, according to Jan Karlsson, an expert at the U.N.</alignment>
+      </verb>
+      <verb class="vec00090" lemma="검사하다">
+        <mark>이동할 수 있는 폭탄 제거 로보트가 이미 폭발물이나 위험 물질이 있는 것으로 의심되는 자동차, 건물, 또는 우편물을 ^ 검사할 수 있다고, 유엔의 유럽 경제 위원회 소속 전문가인 Jan Karlsson이 전하고 있다.</mark>
+        <alignment to="verb">Mobile bomb-fighting robots can already ^ inspect suspicious cars, buildings or mail for explosives or hazardous materials, according to Jan Karlsson, an expert at the U.N.</alignment>
+      </verb>
+      <verb class="vec00060" lemma="전하다">
+        <mark>이동할 수 있는 폭탄 제거 로보트가 이미 폭발물이나 위험 물질이 있는 것으로 의심되는 자동차, 건물, 또는 우편물을 검사할 수 있다고, 유엔의 유럽 경제 위원회 소속 전문가인 Jan Karlsson이 ^ 전하고 있다.</mark>
+        <alignment to="verb-diff">Mobile bomb-fighting robots can already inspect suspicious cars, buildings or mail for explosives or hazardous materials, ^ according to Jan Karlsson, an expert at the U.N.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="28">
+    <text>"테러범들과 싸우기 위해서 자동화 기술에 투자하는 것이 분명히 훨씬 많은 이익이 있습니다," 라고 Karlsson이 말했다.</text>
+    <source>“There is definitely a much higher incentive to invest in automated technology to fight terrorists,” Karlsson said.</source>
+    <verbs>
+      <verb class="vec00205" lemma="싸우다">
+        <mark>"테러범들과 ^ 싸우기 위해서 자동화 기술에 투자하는 것이 분명히 훨씬 많은 이익이 있습니다," 라고 Karlsson이 말했다.</mark>
+        <alignment to="verb">“There is definitely a much higher incentive to invest in automated technology to ^ fight terrorists,” Karlsson said.</alignment>
+      </verb>
+      <verb class="vec00147" lemma="투자하다">
+        <mark>"테러범들과 싸우기 위해서 자동화 기술에 ^ 투자하는 것이 분명히 훨씬 많은 이익이 있습니다," 라고 Karlsson이 말했다.</mark>
+        <alignment to="verb">“There is definitely a much higher incentive to ^ invest in automated technology to fight terrorists,” Karlsson said.</alignment>
+      </verb>
+      <verb class="vec00060" lemma="말하다">
+        <mark>"테러범들과 싸우기 위해서 자동화 기술에 투자하는 것이 분명히 훨씬 많은 이익이 있습니다," 라고 Karlsson이 ^ 말했다.</mark>
+        <alignment to="verb">“There is definitely a much higher incentive to invest in automated technology to fight terrorists,” Karlsson ^ said.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="29">
+    <text>"자동화 기술은 우체국에서, 그리고 업무가 끝난 후 사무실 경비에, 그리고 의심스러운 차량을 수색하는 데 사용될 수 있습니다."</text>
+    <source>“It could be used in post offices, in surveillance of offices after hours and to inspect suspicious cars.”</source>
+    <verbs>
+      <verb class="vec00113" lemma="끝나다">
+        <mark>"자동화 기술은 우체국에서, 그리고 업무가 ^ 끝난 후 사무실 경비에, 그리고 의심스러운 차량을 수색하는 데 사용될 수 있습니다."</mark>
+        <alignment to="adp">“It could be used in post offices, in surveillance of offices ^ after hours and to inspect suspicious cars.”</alignment>
+      </verb>
+      <verb class="vec00090" lemma="수색하다">
+        <mark>"자동화 기술은 우체국에서, 그리고 업무가 끝난 후 사무실 경비에, 그리고 의심스러운 차량을 ^ 수색하는 데 사용될 수 있습니다."</mark>
+        <alignment to="verb">“It could be used in post offices, in surveillance of offices after hours and to ^ inspect suspicious cars.”</alignment>
+      </verb>
+      <verb class="vec00079" lemma="사용하다">
+        <mark>"자동화 기술은 우체국에서, 그리고 업무가 끝난 후 사무실 경비에, 그리고 의심스러운 차량을 수색하는 데 ^ 사용될 수 있습니다."</mark>
+        <alignment to="verb">“It could be ^ used in post offices, in surveillance of offices after hours and to inspect suspicious cars.”</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="31">
+    <text>그와 동시 에 노동 비용은 더욱 상승하고 있습니다." 라고 말했다.</text>
+    <source>At the same time, labor costs are more and more.”</source>
+    <verbs>
+      <verb class="vec00109" lemma="상승하다">
+        <mark>그와 동시 에 노동 비용은 더욱 ^ 상승하고 있습니다." 라고 말했다.</mark>
+        <alignment to="verb-diff">At the same time, labor costs ^ are more and more.”</alignment>
+      </verb>
+      <verb class="vec00060" lemma="말하다">
+        <mark>그와 동시 에 노동 비용은 더욱 상승하고 있습니다." 라고 ^ 말했다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="32">
+    <text>"산업용 로보트 분야에서 2000년은 최상의 해였습니다." 라고 이 스웨덴인은 덧붙혀 말했다.</text>
+    <source>“For industrial robots, 2000 was the best year ever,” added the Swede.</source>
+    <verbs>
+      <verb class="vec00060" lemma="덧붙이다">
+        <mark>"산업용 로보트 분야에서 2000년은 최상의 해였습니다." 라고 이 스웨덴인은 ^ 덧붙혀 말했다.</mark>
+        <alignment to="verb">“For industrial robots, 2000 was the best year ever,” ^ added the Swede.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="33">
+    <text>"일본, 유럽 및 북아메리카 뿐만아니라 일부 개발도상국들, 예를들어 브라질, 중국 및 남아프리카에서도 산업용 로보트는 사용량이 폭증하기 시작했습니다.</text>
+    <source>“Not only in Japan and Europe and North America, but they have also started to take off in some developing countries, for example in Brazil, Mexico, China and South Africa.”</source>
+    <verbs>
+      <verb class="vec00109" lemma="폭증하다">
+        <mark>"일본, 유럽 및 북아메리카 뿐만아니라 일부 개발도상국들, 예를들어 브라질, 중국 및 남아프리카에서도 산업용 로보트는 사용량이 ^ 폭증하기 시작했습니다.</mark>
+        <alignment to="verb">“Not only in Japan and Europe and North America, but they have also started to ^ take off in some developing countries, for example in Brazil, Mexico, China and South Africa.”</alignment>
+      </verb>
+      <verb class="vec00038" lemma="시작하다">
+        <mark>"일본, 유럽 및 북아메리카 뿐만아니라 일부 개발도상국들, 예를들어 브라질, 중국 및 남아프리카에서도 산업용 로보트는 사용량이 폭증하기 ^ 시작했습니다.</mark>
+        <alignment to="verb">“Not only in Japan and Europe and North America, but they have also ^ started to take off in some developing countries, for example in Brazil, Mexico, China and South Africa.”</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="34">
+    <text>로보트 장치의 연간 판매액은 50억60억달러로 추산되고 있다.</text>
+    <source>Annual sales of robot units are estimated at $5 billion to $6 billion.</source>
+    <verbs>
+      <verb class="vec00322" lemma="추산하다">
+        <mark>로보트 장치의 연간 판매액은 50억60억달러로 ^ 추산되고 있다.</mark>
+        <alignment to="verb">Annual sales of robot units are ^ estimated at $5 billion to $6 billion.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="35">
+    <text>그러나 필수 소프트웨어 및 통합 시스템 설치 비용을 합할 경우, 전체 로보트 공학 시장의 가치는 250억달러에 달할 수 있다.</text>
+    <source>But with the cost of installing necessary software and integration systems, the total robotics market could be worth closer to $25 billion.</source>
+    <verbs>
+      <verb class="vec00366" lemma="합하다">
+        <mark>그러나 필수 소프트웨어 및 통합 시스템 설치 비용을 ^ 합할 경우, 전체 로보트 공학 시장의 가치는 250억달러에 달할 수 있다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00206" lemma="달하다">
+        <mark>그러나 필수 소프트웨어 및 통합 시스템 설치 비용을 합할 경우, 전체 로보트 공학 시장의 가치는 250억달러에 ^ 달할 수 있다.</mark>
+        <alignment to="verb">But with the cost of installing necessary software and integration systems, the total robotics market could be ^ worth closer to $25 billion.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="36">
+    <text>2000년까지 이스라엘과 영국을 비롯한 여러 국가들에서 화재 진압 및 폭탄 처리 로보트 시스템이 약 50대가 판매되었다.</text>
+    <source>About 50 systems of firefighting and bomb-disposal robots have been sold through 2000 in countries including Israel and Britain.</source>
+    <verbs>
+      <verb class="vec00865" lemma="비롯하다">
+        <mark>2000년까지 이스라엘과 영국을 ^ 비롯한 여러 국가들에서 화재 진압 및 폭탄 처리 로보트 시스템이 약 50대가 판매되었다.</mark>
+        <alignment to="verb">About 50 systems of firefighting and bomb-disposal robots have been sold through 2000 in countries ^ including Israel and Britain.</alignment>
+      </verb>
+      <verb class="vec00083" lemma="판매하다">
+        <mark>2000년까지 이스라엘과 영국을 비롯한 여러 국가들에서 화재 진압 및 폭탄 처리 로보트 시스템이 약 50대가 ^ 판매되었다.</mark>
+        <alignment to="verb">About 50 systems of firefighting and bomb-disposal robots have been ^ sold through 2000 in countries including Israel and Britain.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="37">
+    <text>미국에서 끔찍한 공격이 발생하기 전에 작성된 이 연구 보고서는 2004년까지 120대의 시스템이 판매될 것으로 예측하고 있다.</text>
+    <source>The study, written before the devastating U.S. attacks, predicts sales of 120 systems by 2004.</source>
+    <verbs>
+      <verb class="vec00097" lemma="발생하다">
+        <mark>미국에서 끔찍한 공격이 ^ 발생하기 전에 작성된 이 연구 보고서는 2004년까지 120대의 시스템이 판매될 것으로 예측하고 있다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00037" lemma="작성하다">
+        <mark>미국에서 끔찍한 공격이 발생하기 전에 ^ 작성된 이 연구 보고서는 2004년까지 120대의 시스템이 판매될 것으로 예측하고 있다.</mark>
+        <alignment to="verb">The study, ^ written before the devastating U.S. attacks, predicts sales of 120 systems by 2004.</alignment>
+      </verb>
+      <verb class="vec00083" lemma="판매하다">
+        <mark>미국에서 끔찍한 공격이 발생하기 전에 작성된 이 연구 보고서는 2004년까지 120대의 시스템이 ^ 판매될 것으로 예측하고 있다.</mark>
+        <alignment to="noun">The study, written before the devastating U.S. attacks, predicts ^ sales of 120 systems by 2004.</alignment>
+      </verb>
+      <verb class="vec00093" lemma="예측하다">
+        <mark>미국에서 끔찍한 공격이 발생하기 전에 작성된 이 연구 보고서는 2004년까지 120대의 시스템이 판매될 것으로 ^ 예측하고 있다.</mark>
+        <alignment to="verb">The study, written before the devastating U.S. attacks, ^ predicts sales of 120 systems by 2004.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="38">
+    <text>약 2,300대의 로보트가 핵, 화학 물질, 폐기물, 또는 기타 위험한 합성물을 파괴하거나, 처리하거나, 해체하는 작업을 하고 있다고 보고서는 전했다.</text>
+    <source>About 2,300 robots work in demolition, servicing or dismantling nuclear, chemical, waste or other hazardous complexes, the report said.</source>
+    <verbs>
+      <verb class="vec00389" lemma="파괴하다">
+        <mark>약 2,300대의 로보트가 핵, 화학 물질, 폐기물, 또는 기타 위험한 합성물을 ^ 파괴하거나, 처리하거나, 해체하는 작업을 하고 있다고 보고서는 전했다.</mark>
+        <alignment to="verb">About 2,300 robots work in ^ demolition, servicing or dismantling nuclear, chemical, waste or other hazardous complexes, the report said.</alignment>
+      </verb>
+      <verb class="vec00462" lemma="처리하다">
+        <mark>약 2,300대의 로보트가 핵, 화학 물질, 폐기물, 또는 기타 위험한 합성물을 파괴하거나, ^ 처리하거나, 해체하는 작업을 하고 있다고 보고서는 전했다.</mark>
+        <alignment to="verb">About 2,300 robots work in demolition, ^ servicing or dismantling nuclear, chemical, waste or other hazardous complexes, the report said.</alignment>
+      </verb>
+      <verb class="vec00389" lemma="해체하다">
+        <mark>약 2,300대의 로보트가 핵, 화학 물질, 폐기물, 또는 기타 위험한 합성물을 파괴하거나, 처리하거나, ^ 해체하는 작업을 하고 있다고 보고서는 전했다.</mark>
+        <alignment to="verb">About 2,300 robots work in demolition, servicing or ^ dismantling nuclear, chemical, waste or other hazardous complexes, the report said.</alignment>
+      </verb>
+      <verb class="vec00060" lemma="전하하다">
+        <mark>약 2,300대의 로보트가 핵, 화학 물질, 폐기물, 또는 기타 위험한 합성물을 파괴하거나, 처리하거나, 해체하는 작업을 하고 있다고 보고서는 ^ 전했다.</mark>
+        <alignment to="verb">About 2,300 robots work in demolition, servicing or dismantling nuclear, chemical, waste or other hazardous complexes, the report ^ said.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="40">
+    <text>"경호 로보트가 침입자나 화재를 탐지하기 위해서 개인적으로, 그리고 전문적으로 사용되고 있습니다." 라고 Karlsson이 말했다.</text>
+    <source>“Guard robots are used privately and professionally to detect intruders or fire,” Karlsson said.</source>
+    <verbs>
+      <verb class="vec00820" lemma="탐지하다">
+        <mark>"경호 로보트가 침입자나 화재를 ^ 탐지하기 위해서 개인적으로, 그리고 전문적으로 사용되고 있습니다." 라고 Karlsson이 말했다.</mark>
+        <alignment to="verb">“Guard robots are used privately and professionally to ^ detect intruders or fire,” Karlsson said.</alignment>
+      </verb>
+      <verb class="vec00079" lemma="사용하다">
+        <mark>"경호 로보트가 침입자나 화재를 탐지하기 위해서 개인적으로, 그리고 전문적으로 ^ 사용되고 있습니다." 라고 Karlsson이 말했다.</mark>
+        <alignment to="verb">“Guard robots are ^ used privately and professionally to detect intruders or fire,” Karlsson said.</alignment>
+      </verb>
+      <verb class="vec00060" lemma="말하다">
+        <mark>"경호 로보트가 침입자나 화재를 탐지하기 위해서 개인적으로, 그리고 전문적으로 사용되고 있습니다." 라고 Karlsson이 ^ 말했다.</mark>
+        <alignment to="verb">“Guard robots are used privately and professionally to detect intruders or fire,” Karlsson ^ said.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="41">
+    <text>"국방성은 그러한 로보트를 여러 대 갖고 있으며, 그 로보트들은 미국과 유럽의 핵 발전소에서 사용되고 있지만, 시장은 아직도 한계를 벗어나지 못하고 있습니다."</text>
+    <source>“The Pentagon have several, and they are used in nuclear plants in the United States and Europe, but the market is still rather marginal."</source>
+    <verbs>
+      <verb class="vec00348" lemma="갖다">
+        <mark>"국방성은 그러한 로보트를 여러 대 ^ 갖고 있으며, 그 로보트들은 미국과 유럽의 핵 발전소에서 사용되고 있지만, 시장은 아직도 한계를 벗어나지 못하고 있습니다."</mark>
+        <alignment to="verb">“The Pentagon ^ have several, and they are used in nuclear plants in the United States and Europe, but the market is still rather marginal."</alignment>
+      </verb>
+      <verb class="vec00079" lemma="사용하다">
+        <mark>"국방성은 그러한 로보트를 여러 대 갖고 있으며, 그 로보트들은 미국과 유럽의 핵 발전소에서 ^ 사용되고 있지만, 시장은 아직도 한계를 벗어나지 못하고 있습니다."</mark>
+        <alignment to="verb">“The Pentagon have several, and they are ^ used in nuclear plants in the United States and Europe, but the market is still rather marginal."</alignment>
+      </verb>
+      <verb class="vec00045" lemma="벗어나다">
+        <mark>"국방성은 그러한 로보트를 여러 대 갖고 있으며, 그 로보트들은 미국과 유럽의 핵 발전소에서 사용되고 있지만, 시장은 아직도 한계를 ^ 벗어나지 못하고 있습니다."</mark>
+        <alignment to="none"></alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="42">
+    <text>미국 의회 의원 5명은 북한이 핵무기 계획을 계속 진행하는 데 대해 북한을 응징하고, 이 고립된 사회주의 국가에서의 정권 교체를 추진하라고 촉구하는 서한을 부시 대통령에게 보냈다.</text>
+    <source>Five United States Congressmen have written to President Bush urging him to punish North Korea for continuing with its nuclear weapons program and push for a change of government in the isolated Stalinist state.</source>
+    <verbs>
+      <verb class="TBD" lemma="진행하다">
+        <mark>미국 의회 의원 5명은 북한이 핵무기 계획을 계속 ^ 진행하는 데 대해 북한을 응징하고, 이 고립된 사회주의 국가에서의 정권 교체를 추진하라고 촉구하는 서한을 부시 대통령에게 보냈다.</mark>
+        <alignment to="verb">Five United States Congressmen have written to President Bush urging him to punish North Korea for ^ continuing with its nuclear weapons program and push for a change of government in the isolated Stalinist state.</alignment>
+      </verb>
+      <verb class="vec00484" lemma="응징하다">
+        <mark>미국 의회 의원 5명은 북한이 핵무기 계획을 계속 진행하는 데 대해 북한을 ^ 응징하고, 이 고립된 사회주의 국가에서의 정권 교체를 추진하라고 촉구하는 서한을 부시 대통령에게 보냈다.</mark>
+        <alignment to="verb">Five United States Congressmen have written to President Bush urging him to ^ punish North Korea for continuing with its nuclear weapons program and push for a change of government in the isolated Stalinist state.</alignment>
+      </verb>
+      <verb class="vec00226" lemma="대하다">
+        <mark>미국 의회 의원 5명은 북한이 핵무기 계획을 계속 진행하는 데 ^ 대해 북한을 응징하고, 이 고립된 사회주의 국가에서의 정권 교체를 추진하라고 촉구하는 서한을 부시 대통령에게 보냈다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00047" lemma="고립하다">
+        <mark>미국 의회 의원 5명은 북한이 핵무기 계획을 계속 진행하는 데 대해 북한을 응징하고, 이 ^ 고립된 사회주의 국가에서의 정권 교체를 추진하라고 촉구하는 서한을 부시 대통령에게 보냈다.</mark>
+        <alignment to="verb">Five United States Congressmen have written to President Bush urging him to punish North Korea for continuing with its nuclear weapons program and push for a change of government in the ^ isolated Stalinist state.</alignment>
+      </verb>
+      <verb class="vec00743" lemma="추진하다">
+        <mark>미국 의회 의원 5명은 북한이 핵무기 계획을 계속 진행하는 데 대해 북한을 응징하고, 이 고립된 사회주의 국가에서의 정권 교체를 ^ 추진하라고 촉구하는 서한을 부시 대통령에게 보냈다.</mark>
+        <alignment to="verb">Five United States Congressmen have written to President Bush urging him to punish North Korea for continuing with its nuclear weapons program and ^ push for a change of government in the isolated Stalinist state.</alignment>
+      </verb>
+      <verb class="vec00272" lemma="촉구하다">
+        <mark>미국 의회 의원 5명은 북한이 핵무기 계획을 계속 진행하는 데 대해 북한을 응징하고, 이 고립된 사회주의 국가에서의 정권 교체를 추진하라고 ^ 촉구하는 서한을 부시 대통령에게 보냈다.</mark>
+        <alignment to="verb">Five United States Congressmen have written to President Bush ^ urging him to punish North Korea for continuing with its nuclear weapons program and push for a change of government in the isolated Stalinist state.</alignment>
+      </verb>
+      <verb class="vec00209" lemma="보내다">
+        <mark>미국 의회 의원 5명은 북한이 핵무기 계획을 계속 진행하는 데 대해 북한을 응징하고, 이 고립된 사회주의 국가에서의 정권 교체를 추진하라고 촉구하는 서한을 부시 대통령에게 ^ 보냈다.</mark>
+        <alignment to="verb">Five United States Congressmen have ^ written to President Bush urging him to punish North Korea for continuing with its nuclear weapons program and push for a change of government in the isolated Stalinist state.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="43">
+    <text>행정부에 보낸 서한에서, 공화당 상원의원 제시 헬름스, 봅 스미스, 존 킬, 그리고 공화당 하원의원 크리스 콕스와 민주당 하원의원 에드 마키는 대통령에게 미국이 북한에게 연료용 기름을 제공하기로 한 1994 협약을 폐지하라고 요청했다.</text>
+    <source>In a letter to the administration, Republican Senators Jesse Helms, Bob Smith and John Kyl, Republican Representative Chris Cox and Democrat Representative Ed Markey called on the president for the U.S. to provide North Korea with fuel oil.</source>
+    <verbs>
+      <verb class="vec00209" lemma="보내다">
+        <mark>행정부에 ^ 보낸 서한에서, 공화당 상원의원 제시 헬름스, 봅 스미스, 존 킬, 그리고 공화당 하원의원 크리스 콕스와 민주당 하원의원 에드 마키는 대통령에게 미국이 북한에게 연료용 기름을 제공하기로 한 1994 협약을 폐지하라고 요청했다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00074" lemma="제공하다">
+        <mark>행정부에 보낸 서한에서, 공화당 상원의원 제시 헬름스, 봅 스미스, 존 킬, 그리고 공화당 하원의원 크리스 콕스와 민주당 하원의원 에드 마키는 대통령에게 미국이 북한에게 연료용 기름을 ^ 제공하기로 한 1994 협약을 폐지하라고 요청했다.</mark>
+        <alignment to="verb">In a letter to the administration, Republican Senators Jesse Helms, Bob Smith and John Kyl, Republican Representative Chris Cox and Democrat Representative Ed Markey called on the president for the U.S. to ^ provide North Korea with fuel oil.</alignment>
+      </verb>
+      <verb class="vec00198" lemma="폐지하다">
+        <mark>행정부에 보낸 서한에서, 공화당 상원의원 제시 헬름스, 봅 스미스, 존 킬, 그리고 공화당 하원의원 크리스 콕스와 민주당 하원의원 에드 마키는 대통령에게 미국이 북한에게 연료용 기름을 제공하기로 한 1994 협약을 ^ 폐지하라고 요청했다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00272" lemma="요청하다">
+        <mark>행정부에 보낸 서한에서, 공화당 상원의원 제시 헬름스, 봅 스미스, 존 킬, 그리고 공화당 하원의원 크리스 콕스와 민주당 하원의원 에드 마키는 대통령에게 미국이 북한에게 연료용 기름을 제공하기로 한 1994 협약을 폐지하라고 ^ 요청했다.</mark>
+        <alignment to="verb">In a letter to the administration, Republican Senators Jesse Helms, Bob Smith and John Kyl, Republican Representative Chris Cox and Democrat Representative Ed Markey ^ called on the president for the U.S. to provide North Korea with fuel oil.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="44">
+    <text>양측이 아시아에서 가장 오래 지속되어온 분쟁을 종식시키기 위해 노력함에따라, 스리랑카 정부와 타밀 반군 사이 의 4일간의 평화 회담이 큰 성과를 거두고 끝났다.</text>
+    <source>Four days of peace talks between the Sri Lankan government and Tamil rebels have ended on a high note as both sides bid to end one of Asia's longest-running conflicts.</source>
+    <verbs>
+      <verb class="vec00261" lemma="지속하다">
+        <mark>양측이 아시아에서 가장 오래 ^ 지속되어온 분쟁을 종식시키기 위해 노력함에따라, 스리랑카 정부와 타밀 반군 사이 의 4일간의 평화 회담이 큰 성과를 거두고 끝났다.</mark>
+        <alignment to="verb">Four days of peace talks between the Sri Lankan government and Tamil rebels have ended on a high note as both sides bid to end one of Asia's longest-^ running conflicts.</alignment>
+      </verb>
+      <verb class="vec00213" lemma="종식하다">
+        <mark>양측이 아시아에서 가장 오래 지속되어온 분쟁을 ^ 종식시키기 위해 노력함에따라, 스리랑카 정부와 타밀 반군 사이 의 4일간의 평화 회담이 큰 성과를 거두고 끝났다.</mark>
+        <alignment to="verb">Four days of peace talks between the Sri Lankan government and Tamil rebels have ended on a high note as both sides bid to ^ end one of Asia's longest-running conflicts.</alignment>
+      </verb>
+      <verb class="vec00309" lemma="거두다">
+        <mark>양측이 아시아에서 가장 오래 지속되어온 분쟁을 종식시키기 위해 노력함에따라, 스리랑카 정부와 타밀 반군 사이 의 4일간의 평화 회담이 큰 성과를 ^ 거두고 끝났다.</mark>
+        <alignment to="verb-diff">Four days of peace talks between the Sri Lankan government and Tamil rebels have ^ ended on a high note as both sides bid to end one of Asia's longest-running conflicts.</alignment>
+      </verb>
+      <verb class="vec00113" lemma="끝나다">
+        <mark>양측이 아시아에서 가장 오래 지속되어온 분쟁을 종식시키기 위해 노력함에따라, 스리랑카 정부와 타밀 반군 사이 의 4일간의 평화 회담이 큰 성과를 거두고 ^ 끝났다.</mark>
+        <alignment to="verb">Four days of peace talks between the Sri Lankan government and Tamil rebels have ^ ended on a high note as both sides bid to end one of Asia's longest-running conflicts.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="45">
+    <text>65,000명에 가까운 사상자를 냈으며, 150만명 이상을 피난시켰던 19년간의 전쟁에서의 핵심적인 쟁점들을 검토하기 위해 3개 위원회를 구성하기로 합의한 후에, 양측은 태국에서의 회담이 성공적이었다고 선언했다.</text>
+    <source>Both sides declared success in Thailand, after they agreed to set up three committees to look at issues that lie at the heart of the 19-year-old war that has killed nearly 65,000 people and displaced more than 1.5 million.</source>
+    <verbs>
+      <verb class="vec00196" lemma="내다">
+        <mark>65,000명에 가까운 사상자를 ^ 냈으며, 150만명 이상을 피난시켰던 19년간의 전쟁에서의 핵심적인 쟁점들을 검토하기 위해 3개 위원회를 구성하기로 합의한 후에, 양측은 태국에서의 회담이 성공적이었다고 선언했다.</mark>
+        <alignment to="verb-diff">Both sides declared success in Thailand, after they agreed to set up three committees to look at issues that lie at the heart of the 19-year-old war that has ^ killed nearly 65,000 people and displaced more than 1.5 million.</alignment>
+      </verb>
+      <verb class="vec00146" lemma="피난하다">
+        <mark>65,000명에 가까운 사상자를 냈으며, 150만명 이상을 ^ 피난시켰던 19년간의 전쟁에서의 핵심적인 쟁점들을 검토하기 위해 3개 위원회를 구성하기로 합의한 후에, 양측은 태국에서의 회담이 성공적이었다고 선언했다.</mark>
+        <alignment to="verb">Both sides declared success in Thailand, after they agreed to set up three committees to look at issues that lie at the heart of the 19-year-old war that has ^ killed nearly 65,000 people and ^ displaced more than 1.5 million.</alignment>
+      </verb>
+      <verb class="vec00090" lemma="검토하다">
+        <mark>65,000명에 가까운 사상자를 냈으며, 150만명 이상을 피난시켰던 19년간의 전쟁에서의 핵심적인 쟁점들을 ^ 검토하기 위해 3개 위원회를 구성하기로 합의한 후에, 양측은 태국에서의 회담이 성공적이었다고 선언했다.</mark>
+        <alignment to="verb">Both sides declared success in Thailand, after they agreed to set up three committees to ^ look at issues that lie at the heart of the 19-year-old war that has killed nearly 65,000 people and displaced more than 1.5 million.</alignment>
+      </verb>
+      <verb class="vec00179" lemma="구성하다">
+        <mark>65,000명에 가까운 사상자를 냈으며, 150만명 이상을 피난시켰던 19년간의 전쟁에서의 핵심적인 쟁점들을 검토하기 위해 3개 위원회를 ^ 구성하기로 합의한 후에, 양측은 태국에서의 회담이 성공적이었다고 선언했다.</mark>
+        <alignment to="verb">Both sides declared success in Thailand, after they agreed to ^ set up three committees to look at issues that lie at the heart of the 19-year-old war that has killed nearly 65,000 people and displaced more than 1.5 million.</alignment>
+      </verb>
+      <verb class="vec00120" lemma="합의하다">
+        <mark>65,000명에 가까운 사상자를 냈으며, 150만명 이상을 피난시켰던 19년간의 전쟁에서의 핵심적인 쟁점들을 검토하기 위해 3개 위원회를 구성하기로 ^ 합의한 후에, 양측은 태국에서의 회담이 성공적이었다고 선언했다.</mark>
+        <alignment to="verb">Both sides declared success in Thailand, after they ^ agreed to set up three committees to look at issues that lie at the heart of the 19-year-old war that has killed nearly 65,000 people and displaced more than 1.5 million.</alignment>
+      </verb>
+      <verb class="vec00060" lemma="선언하다">
+        <mark>65,000명에 가까운 사상자를 냈으며, 150만명 이상을 피난시켰던 19년간의 전쟁에서의 핵심적인 쟁점들을 검토하기 위해 3개 위원회를 구성하기로 합의한 후에, 양측은 태국에서의 회담이 성공적이었다고 ^ 선언했다.</mark>
+        <alignment to="verb">Both sides ^ declared success in Thailand, after they agreed to set up three committees to look at issues that lie at the heart of the 19-year-old war that has killed nearly 65,000 people and displaced more than 1.5 million.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="46">
+    <text>새 기구들은 민족 문제와 권력 분할 문제를 중점적으로 다룰 것이며, 난민 재정착과 수십년간의 내전으로 파괴된 지역의 복구 문제를 감독할 것이라고 스리랑카 정부는 말하고 있다.</text>
+    <source>The government says the new bodies will address ethnic and power-sharing issues and will also oversee a resettlement of refugees and restoration of areas destroyed by the decades-old civil war.</source>
+    <verbs>
+      <verb class="vec00301" lemma="다루다">
+        <mark>새 기구들은 민족 문제와 권력 분할 문제를 중점적으로 ^ 다룰 것이며, 난민 재정착과 수십년간의 내전으로 파괴된 지역의 복구 문제를 감독할 것이라고 스리랑카 정부는 말하고 있다.</mark>
+        <alignment to="verb">The government says the new bodies will ^ address ethnic and power-sharing issues and will also oversee a resettlement of refugees and restoration of areas destroyed by the decades-old civil war.</alignment>
+      </verb>
+      <verb class="vec00389" lemma="파괴하다">
+        <mark>새 기구들은 민족 문제와 권력 분할 문제를 중점적으로 다룰 것이며, 난민 재정착과 수십년간의 내전으로 ^ 파괴된 지역의 복구 문제를 감독할 것이라고 스리랑카 정부는 말하고 있다.</mark>
+        <alignment to="verb">The government says the new bodies will address ethnic and power-sharing issues and will also oversee a resettlement of refugees and restoration of areas ^ destroyed by the decades-old civil war.</alignment>
+      </verb>
+      <verb class="vec00211" lemma="감독하다">
+        <mark>새 기구들은 민족 문제와 권력 분할 문제를 중점적으로 다룰 것이며, 난민 재정착과 수십년간의 내전으로 파괴된 지역의 복구 문제를 ^ 감독할 것이라고 스리랑카 정부는 말하고 있다.</mark>
+        <alignment to="verb">The government says the new bodies will address ethnic and power-sharing issues and will also ^ oversee a resettlement of refugees and restoration of areas destroyed by the decades-old civil war.</alignment>
+      </verb>
+      <verb class="vec00060" lemma="말하다">
+        <mark>새 기구들은 민족 문제와 권력 분할 문제를 중점적으로 다룰 것이며, 난민 재정착과 수십년간의 내전으로 파괴된 지역의 복구 문제를 감독할 것이라고 스리랑카 정부는 ^ 말하고 있다.</mark>
+        <alignment to="verb">The government ^ says the new bodies will address ethnic and power-sharing issues and will also oversee a resettlement of refugees and restoration of areas destroyed by the decades-old civil war.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="47">
+    <text>로스앤젤레스 남부의 한 고속도로에서 194대의 차량이 연쇄 추돌하여 40명 이상이 부상당하고, 5명이 중상을 입었다고 경찰이 발표했다.</text>
+    <source>A 194-vehicle pileup on a freeway south of Los Angeles left more than 40 people injured, five seriously, The accident occurred shortly before 7 a.m.</source>
+    <verbs>
+      <verb class="vec00639" lemma="추돌하다">
+        <mark>로스앤젤레스 남부의 한 고속도로에서 194대의 차량이 연쇄 ^ 추돌하여 40명 이상이 부상당하고, 5명이 중상을 입었다고 경찰이 발표했다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00372" lemma="부상당하다">
+        <mark>로스앤젤레스 남부의 한 고속도로에서 194대의 차량이 연쇄 추돌하여 40명 이상이 ^ 부상당하고, 5명이 중상을 입었다고 경찰이 발표했다.</mark>
+        <alignment to="verb">A 194-vehicle pileup on a freeway south of Los Angeles left more than 40 people ^ injured, five seriously, The accident occurred shortly before 7 a.m.</alignment>
+      </verb>
+      <verb class="vec00340" lemma="입다">
+        <mark>로스앤젤레스 남부의 한 고속도로에서 194대의 차량이 연쇄 추돌하여 40명 이상이 부상당하고, 5명이 중상을 ^ 입었다고 경찰이 발표했다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+      <verb class="vec00060" lemma="발표하다">
+        <mark>로스앤젤레스 남부의 한 고속도로에서 194대의 차량이 연쇄 추돌하여 40명 이상이 부상당하고, 5명이 중상을 입었다고 경찰이 ^ 발표했다.</mark>
+        <alignment to="none"></alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="49">
+    <text>짙은 안개가 사고의 요인이었을 것이라고 캘리포니아 고속도로 순찰대 관리들이 말했다.</text>
+    <source>Thick fog may have been a factor in the accident, California Highway Patrol officers said.</source>
+    <verbs>
+      <verb class="vec00060" lemma="말하다">
+        <mark>짙은 안개가 사고의 요인이었을 것이라고 캘리포니아 고속도로 순찰대 관리들이 ^ 말했다.</mark>
+        <alignment to="verb">Thick fog may have been a factor in the accident, California Highway Patrol officers ^ said.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="50">
+    <text>신랑 들러리가 포도주 잔을 들어 올린다 그리고는 술주정을 늘어놓는다.</text>
+    <source>The best man raises his wine glass and out comes a drunken diatribe.</source>
+    <verbs>
+      <verb class="vec01194" lemma="들다">
+        <mark>신랑 들러리가 포도주 잔을 ^ 들어 올린다 그리고는 술주정을 늘어놓는다.</mark>
+        <alignment to="verb">The best man ^ raises his wine glass and out comes a drunken diatribe.</alignment>
+      </verb>
+      <verb class="vec00836" lemma="늘다">
+        <mark>신랑 들러리가 포도주 잔을 들어 올린다 그리고는 술주정을 ^ 늘어놓는다.</mark>
+        <alignment to="verb">The best man raises his wine glass and out ^ comes a drunken diatribe.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="51">
+    <text>하지만 점점 더 많은 연인들이 웹사이트에 완벽한 축배의 말을 대신 써주도록 의뢰함으로써 그러한 실패로부터 자신들을 보호하고 있다.</text>
+    <source>It's a wedding couple's nightmare, but a growing number of love birds are shielding themselves by having Web sites ghostwrite the perfect toast.</source>
+    <verbs>
+      <verb class="vec00037" lemma="쓰다">
+        <mark>하지만 점점 더 많은 연인들이 웹사이트에 완벽한 축배의 말을 대신 ^ 써주도록 의뢰함으로써 그러한 실패로부터 자신들을 보호하고 있다.</mark>
+        <alignment to="verb">It's a wedding couple's nightmare, but a growing number of love birds are shielding themselves by having Web sites ^ ghostwrite the perfect toast.</alignment>
+      </verb>
+      <verb class="vec00451" lemma="의뢰하다">
+        <mark>하지만 점점 더 많은 연인들이 웹사이트에 완벽한 축배의 말을 대신 써주도록 ^ 의뢰함으로써 그러한 실패로부터 자신들을 보호하고 있다.</mark>
+        <alignment to="verb">It's a wedding couple's nightmare, but a growing number of love birds are shielding themselves by ^ having Web sites ghostwrite the perfect toast.</alignment>
+      </verb>
+      <verb class="vec00024" lemma="보호하다">
+        <mark>하지만 점점 더 많은 연인들이 웹사이트에 완벽한 축배의 말을 대신 써주도록 의뢰함으로써 그러한 실패로부터 자신들을 ^ 보호하고 있다.</mark>
+        <alignment to="verb">It's a wedding couple's nightmare, but a growing number of love birds are ^ shielding themselves by having Web sites ghostwrite the perfect toast.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+  <sentence id="53">
+    <text>그러나 행복한 신랑, 신부를 위한 축배의 말이 가장 빈번하게 의뢰되고 있다.</text>
+    <source>But toasts for the happy couple are the most frequent requests.</source>
+    <verbs>
+      <verb class="vec00451" lemma="의뢰하다">
+        <mark>그러나 행복한 신랑, 신부를 위한 축배의 말이 가장 빈번하게 ^ 의뢰되고 있다.</mark>
+        <alignment to="verb">But toasts for the happy couple are the most frequent ^ requests.</alignment>
+      </verb>
+    </verbs>
+  </sentence>
+</sentences>

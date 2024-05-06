@@ -1,0 +1,180 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Test corpus creation",
+            "type": "python",
+            "request": "launch",
+            "program": "scripts/main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--task=corpus",
+                "--udpipe-model-target=ko",
+                "--udpipe-model-source=en",
+                "--tmx-corpus=../en-ko.tmx", 
+                "--ssc-pred-model=/home/kasparp9/strakova2/cde",
+                "--lemmatization=scripts/ko_filter_lemma.py",
+                "--verb-filter=scripts/ko_filter_lemma.py"
+            ]
+        },
+        {
+            "name": "Corpus create",
+            "type": "python",
+            "request": "launch",
+            "program": "scripts/main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--task=corpus",
+                "--udpipe-model-target=ko",
+                "--udpipe-model-source=en",
+                "--target-corpus=data/ko100.txt", 
+                "--source-corpus=data/en100.txt", 
+                "--ssc-pred-model=/home/kasparp9/strakova2/cde",
+                "--lemmatization=scripts/ko_filter_lemma.py",
+                "--verb-filter=scripts/ko_filter_lemma.py"
+            ]
+            // srun -p gpu --mem=16G -G 1 ./scripts/main.py --output corpus_gpu.xml --task=corpus --udpipe-model-target=ko --udpipe-model-source=en --target-corpus=data/ko100.txt --source-corpus=data/en100.txt --ssc-pred-model=/home/kasparp9/strakova2/cde
+        },
+        {
+            "name": "Test models",
+            "type": "python",
+            "request": "launch",
+            "program": "scripts/model_test.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--data=/home/kasparp9/strakova/data/synsemclass4.0_80-10-10_active/",
+                "--models=/home/kasparp9/strakova2/"
+            ]
+        },
+        {
+            "name": "Evaluate",
+            "type": "python",
+            "request": "launch",
+            "program": "scripts/main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--task=evaluate",
+                "--evaluation-corpus=data/corpus.xml",
+                "--udpipe-model-target=ko",
+                "--udpipe-model-source=en",
+                "--ssc-pred-model=/home/kasparp9/strakova2/cde",
+                "--lemmatization=scripts/ko_filter_lemma.py",
+                "--verb-filter=scripts/ko_filter_lemma.py"
+            ]
+        },
+        {
+            "name": "Synsemclass write test",
+            "type": "python",
+            "request": "launch",
+            "program": "scripts/synsemclass_writer.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ""
+        },
+        {
+            "name": "Synsemclass write KO TEST",
+            "type": "python",
+            "request": "launch",
+            "program": "scripts/main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--task=ssc",
+                "--udpipe-model-target=ko",
+                "--target-corpus=data/korpus_sentences.txt",
+                "--ssc-pred-model=/home/kasparp9/strakova2/cde",
+                "--lemmatization=scripts/ko_filter_lemma.py",
+                "--verb-filter=scripts/ko_filter_lemma.py",
+                "--output=synsemclass_kor_cms_TEST.xml",
+                "--lang-name=kor",
+                "--corpref=news100",
+                "--member-threshold=10",
+                "--aggregation=max",
+            ]
+            // srun -p gpu --mem=16G -G 1 ./scripts/main.py --task=ssc --udpipe-model-target=ko --target-corpus=data/ko100.txt --ssc-pred-model=/home/kasparp9/strakova2/cde --lemmatization=scripts/ko_filter_lemma.py --verb-filter=scripts/ko_filter_lemma.py --output=synsemclass_kor_cms.xml --lang-name=kor --corpref=news100
+        }
+        ,
+        {
+            "name": "Synsemclass write FULL",
+            "type": "python",
+            "request": "launch",
+            "program": "scripts/main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--task=ssc",
+                "--udpipe-model-target=ko",
+                "--target-corpus=../ko_news.txt",
+                "--ssc-pred-model=/home/kasparp9/strakova2/cde",
+                "--lemmatization=scripts/ko_filter_lemma.py",
+                "--verb-filter=scripts/ko_filter_lemma.py",
+                "--output=synsemclass_kor_cms_full.xml",
+                "--lang-name=kor",
+                "--corpref=news",
+            ]
+        }
+        ,
+        {
+            "name": "SSC W minikorpus",
+            "type": "python",
+            "request": "launch",
+            "program": "scripts/main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--task=ssc",
+                "--udpipe-model-target=ko",
+                "--target-corpus=data/korpus_sentences.txt",
+                "--ssc-pred-model=/home/kasparp9/strakova2/cde",
+                "--lemmatization=scripts/ko_filter_lemma.py",
+                "--verb-filter=scripts/ko_filter_lemma.py",
+                "--output=ssc_kor_minikorpus.xml",
+                "--lang-name=kor",
+                "--corpref=minikorpus",
+                "--member-threshold=0",
+            ]
+        }
+        ,
+        {
+            "name": "aggregation exp",
+            "type": "python",
+            "request": "launch",
+            "program": "scripts/aggregation_experiments.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--preset=eng",
+                "--class-list-path=/home/kasparp9/strakova2/cde/classes.pickle"
+            ]
+        }
+        ,
+        {
+            "name": "matrix DE",
+            "type": "python",
+            "request": "launch",
+            "program": "scripts/main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--task=pred-matrix",
+                "--udpipe-model-target=de",
+                "--target-corpus=ssc_data/text_ssc_deu.txt",
+                "--ssc-pred-model=/home/kasparp9/strakova2/ce",
+                "--lang-name=deu",
+            ]
+        }
+        // srun -p gpu --mem=16G -G 1 ./scripts/main.py --task=pred-matrix --udpipe-model-target=de --target-corpus=ssc_data/text_ssc_deu.txt --ssc-pred-model=/home/kasparp9/strakova2/ce --lang-name=deu
+        // srun -p gpu --mem=16G -G 1 ./scripts/main.py --task=pred-matrix --udpipe-model-target=cs --target-corpus=ssc_data/text_ssc_ces.txt --ssc-pred-model=/home/kasparp9/strakova2/de --lang-name=ces
+        // srun -p gpu --mem=16G -G 1 ./scripts/main.py --task=pred-matrix --udpipe-model-target=en --target-corpus=ssc_data/text_ssc_eng.txt --ssc-pred-model=/home/kasparp9/strakova2/cd --lang-name=eng
+        // srun -p gpu --mem=16G -G 1 ./scripts/main.py --task=pred-matrix --udpipe-model-target=ko --target-corpus=../ko_news.txt --ssc-pred-model=/home/kasparp9/strakova2/cde --lang-name=kor_full --lemmatization=scripts/ko_filter_lemma.py --verb-filter=scripts/ko_filter_lemma.py
+    
+        // ./scripts/main.py --task=pred-matrix --udpipe-model-target=ko --target-corpus=data/korpus_sentences.txt --ssc-pred-model=/home/kasparp9/strakova2/cde --lang-name=kor_mini --lemmatization=scripts/ko_filter_lemma.py --verb-filter=scripts/ko_filter_lemma.py
+    ]
+}
