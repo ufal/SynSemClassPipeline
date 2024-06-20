@@ -1,3 +1,4 @@
+-r synsemclass_ml/requirements.txt
 ufal.udpipe~=1.2.0.3
 simalign~=0.3
 sentencepiece~=0.1.96
