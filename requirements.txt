@@ -1,4 +1,9 @@
--r synsemclass_ml/requirements.txt
+numpy~=1.26.4
 ufal.udpipe~=1.2.0.3
 simalign~=0.3
 sentencepiece~=0.1.96
+scikit-learn
+pandas
+tensorflow==2.14
+tensorflow-addons==0.22.0
+transformers
