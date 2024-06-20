@@ -50,6 +50,8 @@ python -m venv venv
 "venv/Scripts/pip3.exe" install -r requirements.txt
 ```
 
+4. In order to run anything, you need to have a SynSemClass classification model. You can either train your own model, as described in the [synsemclass_ml repository](https://github.com/strakova/synsemclass_ml) and the relevant publication, or contact either me or the [synsemclass_ml lead author](https://github.com/strakova) directly to get a model. 
+
 # Usage
 
 The pipeline is run through the `main.py` script (located in the scripts folder). The pipeline uses corpora in one or two languages. One language, which we call target, is the one that is yet to be added to the ontology and which we want to annotate. The second one we call source and is the language used to provide possibly better suggestions for annotations of the target language. The source language is usually English, but not necessarily.
