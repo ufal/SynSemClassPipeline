@@ -20,6 +20,36 @@ Two main approaches are supported:
 - [SymAlign](https://github.com/cisnlp/simalign) (Jalili Sabet et al.)
 - [Custom tool ML for SynSemClass](https://github.com/strakova/synsemclass_ml) (Straková et al.)
 
+# Installation
+
+1. Clone the repository 
+
+```sh
+git clone https://github.com/petrkasp/synsemclass-pipeline
+cd ./synsemclass-pipeline
+```
+
+2. Initialize the `synsemclass_ml` submodule
+
+```sh
+git submodule init
+git submodule update
+```
+
+3. Create a Python virtual environment and install the requirements
+
+Linux:
+```sh
+python3 -m venv venv
+venv/bin/pip3 install -r requirements.txt
+```
+
+Windows:
+```sh
+python -m venv venv
+"venv/Scripts/pip3.exe" install -r requirements.txt
+```
+
 # Usage
 
 The pipeline is run through the `main.py` script (located in the scripts folder). The pipeline uses corpora in one or two languages. One language, which we call target, is the one that is yet to be added to the ontology and which we want to annotate. The second one we call source and is the language used to provide possibly better suggestions for annotations of the target language. The source language is usually English, but not necessarily.
