@@ -47,7 +47,7 @@ venv/bin/pip3 install -r requirements.txt
 Windows:
 ```sh
 python -m venv venv
-"venv/Scripts/pip3.exe" install -r requirements.txt
+venv/Scripts/pip3.exe install -r requirements.txt
 ```
 
 4. In order to run anything, you need to have a SynSemClass classification model. You can either train your own model, as described in the [synsemclass_ml repository](https://github.com/strakova/synsemclass_ml) and the relevant publication, or contact either me or the [synsemclass_ml lead author](https://github.com/strakova) directly to get a model. 
