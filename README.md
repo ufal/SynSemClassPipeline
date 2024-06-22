@@ -50,7 +50,13 @@ python -m venv venv
 venv/Scripts/pip3.exe install -r requirements.txt
 ```
 
-4. In order to run anything, you need to have a SynSemClass classification model. You can either train your own model, as described in the [synsemclass_ml repository](https://github.com/strakova/synsemclass_ml) and the relevant [publication](https://aclanthology.org/2023.law-1.9/), or contact either me or the [synsemclass_ml lead author](https://github.com/strakova) directly to get an already trained model. 
+4. In order to run anything, you need to have a SynSemClass classification model. You can either train your own model, as described in the [synsemclass_ml repository](https://github.com/strakova/synsemclass_ml) and the relevant [publication](https://aclanthology.org/2023.law-1.9/), or contact either me or the [synsemclass_ml lead author](https://github.com/strakova) directly to get an already trained model.
+
+### Test command
+To try if everything works, run this command from the root of the directory. Don't forget to fill in the path to the model.
+```sh
+scripts/main.py --ssc-pred-model=FILL_IN --task=evaluate --evaluation-corpus=data/corpus.xml --udpipe-model-target=ko --udpipe-model-source=en --lemmatization=scripts/ko_filter_lemma.py --verb-filter=scripts/ko_filter_lemma.py
+```
 
 # Usage
 
