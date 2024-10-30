@@ -15,7 +15,7 @@ import transformers
 import shared
 
 synsemclass_classifier_nn = shared.load_module_from_file("synsemclass_classifier_nn", 
-    str(pathlib.Path(__file__).parent.absolute()) + "/../synsemclass_ml/synsemclass_classifier_nn.py")
+    str(pathlib.Path(__file__).parent.absolute()) + "/../SynSemClassML/synsemclass_classifier_nn.py")
 
 class Predictor:
     def __init__(self, model_path):
