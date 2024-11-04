@@ -13,17 +13,19 @@ with words denoting events or states. See the [official website](https://ufal.mf
 scientific publications and data, and the central [SynSemClass repository](https://github.com/ufal/SynSemClass),
 which aggregates the source code from all SynSemClass-related projects.
 
-The ontology is currently populated by English, Czech and German. This toolchain uses existing tools to provide annotations suggestions for new languages.
+The bachelor thesis is based on [SynSemClass 4.0](http://hdl.handle.net/11234/1-4746). The ontology is currently populated by English, Czech and German. This toolchain uses existing tools to provide annotations suggestions for new languages.
 
 Two main approaches are supported:
-- zero shot transfer -- the annotation is done directly on the target langauge corpus
-- cross-lingual annotation projection -- the annotation is done on a parallel corpus and the annotation is projected using word alignment
+- zero shot transfer - the annotation is done directly on the target language corpus
+- cross-lingual annotation projection - the annotation is done on a parallel corpus and the annotation is projected using word alignment
+
 
 # Existing tools used
 
 - [UDPipe](https://ufal.mff.cuni.cz/udpipe) (Straka)
 - [SymAlign](https://github.com/cisnlp/simalign) (Jalili Sabet et al.)
 - [Custom tool ML for SynSemClass](https://github.com/ufal/SynSemClassML) (Straková et al.)
+
 
 # Installation
 
@@ -62,6 +64,7 @@ To try if everything works, run this command from the root of the directory with
 ```sh
 scripts/main.py --ssc-pred-model=FILL_IN --task=evaluate --evaluation-corpus=data/corpus.xml --udpipe-model-target=ko --udpipe-model-source=en --lemmatization=scripts/ko_filter_lemma.py --verb-filter=scripts/ko_filter_lemma.py
 ```
+
 
 # Usage
 
@@ -181,6 +184,7 @@ This is how the same corpus would look like after annotation.
   <!--more sentences would follow-->
 </sentences>
 ```
+
 
 # Contact
 
