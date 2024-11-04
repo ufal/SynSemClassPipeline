@@ -6,7 +6,12 @@
 
 ---
 
-This toolchain is part of the SynSemClass project, whose goal is to "create specifications and definitions of a hierarchical event-type ontology, populated with words denoting events or states." See the [official website](https://ufal.mff.cuni.cz/synsemclass) for a more detailed overview, scientific publications and data.
+This toolchain was developed as part of [Petr Kašpárek's bachelor thesis](https://dspace.cuni.cz/handle/20.500.11956/192066?locale-attribute=en).
+It is part of the [SynSemClass project](https://ufal.mff.cuni.cz/synsemclass), whose goal is to create
+specifications and definitions of a hierarchical event-type ontology, populated
+with words denoting events or states. See the [official website](https://ufal.mff.cuni.cz/synsemclass) for a more detailed overview,
+scientific publications and data, and the central [SynSemClass repository](https://github.com/ufal/SynSemClass),
+which aggregates the source code from all SynSemClass-related projects.
 
 The ontology is currently populated by English, Czech and German. This toolchain uses existing tools to provide annotations suggestions for new languages.
 
@@ -176,3 +181,7 @@ This is how the same corpus would look like after annotation.
   <!--more sentences would follow-->
 </sentences>
 ```
+
+# Contact
+
+Jana Straková `strakova@ufal.mff.cuni.cz`
