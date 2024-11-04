@@ -50,7 +50,7 @@ python -m venv venv
 venv/Scripts/pip3.exe install -r requirements.txt
 ```
 
-4. In order to run anything, you need to have a SynSemClass classification model. You can either train your own model, as described in the [SynSemClassML repository](https://github.com/ufal/SynSemClassML) and the relevant [publication](https://aclanthology.org/2023.law-1.9/), or contact either me or the [SynSemClassML lead author](https://github.com/strakova) directly to get an already trained model.
+4. In order to run anything, you need to have a SynSemClass classification model. You can either train your own model, as described in the [SynSemClassML repository](https://github.com/ufal/SynSemClassML) and the relevant [publication](https://aclanthology.org/2023.law-1.9/), or contact the authors directly to get the model trained for the publication (on [SynSemClass 4.0](http://hdl.handle.net/11234/1-4746)).
 
 ### Test command
 To try if everything works, run this command from the root of the directory with the virtual environment active. Don't forget to fill in the path to the model.
